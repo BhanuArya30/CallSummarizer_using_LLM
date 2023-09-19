@@ -1,0 +1,3954 @@
+WEBVTT
+
+a3b83e0e-077b-4d3a-9d9a-e1ab66edeb2d-0
+00:00:02.780 --> 00:00:04.520
+Um, So what I'll do is um.
+
+9cbf1130-e709-4ace-85ac-c685ffdd83a2-0
+00:00:05.380 --> 00:00:08.541
+I'll share my screen and I'll
+sort of take you through the new
+
+9cbf1130-e709-4ace-85ac-c685ffdd83a2-1
+00:00:08.541 --> 00:00:11.452
+platform. I believe from what
+you've said, you might have
+
+9cbf1130-e709-4ace-85ac-c685ffdd83a2-2
+00:00:11.452 --> 00:00:13.560
+already sort of had a look at it
+already.
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-0
+00:00:14.230 --> 00:00:17.327
+Um, but just to set a bit of
+context, this is the 4th
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-1
+00:00:17.327 --> 00:00:20.827
+iteration. So we spoke on the
+first one, which was, um, sort
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-2
+00:00:20.827 --> 00:00:24.326
+of last year at some point. So
+we've progressed a little bit
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-3
+00:00:24.326 --> 00:00:27.768
+since then. Um, we have added
+sort of a lot of features and
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-4
+00:00:27.768 --> 00:00:31.152
+functionality. This is by no
+means the end product, um. So
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-5
+00:00:31.152 --> 00:00:34.594
+there is still a lot of things
+that are missing such as the
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-6
+00:00:34.594 --> 00:00:38.208
+ability to search. Um, we don't
+have all of the data. We don't
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-7
+00:00:38.208 --> 00:00:41.822
+have charts and visualizations
+yet. This is also coming in the
+
+c5eb90f0-cfd3-4c80-9a71-ccd0f2ccf5aa-8
+00:00:41.822 --> 00:00:44.060
+future. So with regards to those
+pink.
+
+5a1f5abd-8cec-4709-b9f7-ed554d3a283c-0
+00:00:44.160 --> 00:00:46.897
+Blades and the colorful shades
+just, um, that that's kind of
+
+5a1f5abd-8cec-4709-b9f7-ed554d3a283c-1
+00:00:46.897 --> 00:00:49.455
+just a placeholder at the
+minute. Um, so that's not what
+
+5a1f5abd-8cec-4709-b9f7-ed554d3a283c-2
+00:00:49.455 --> 00:00:52.102
+they're actually gonna look
+like. It's it's just sort of a
+
+5a1f5abd-8cec-4709-b9f7-ed554d3a283c-3
+00:00:52.102 --> 00:00:54.705
+placeholder. So that's subject
+to change. But that's good
+
+5a1f5abd-8cec-4709-b9f7-ed554d3a283c-4
+00:00:54.705 --> 00:00:56.770
+feedback. I could pass that back
+to the team.
+
+4ece4ba8-21a2-402d-af81-9e66e3295438-0
+00:00:57.500 --> 00:01:01.470
+Um, what I'll do is, uh, let me
+just share my screen and then.
+
+368b2415-edf2-4f97-a833-3b4fc56eba89-0
+00:01:04.620 --> 00:01:07.680
+I'll talk through the new
+platform.
+
+27320483-3187-496a-9ee2-59e6cb83a9f3-0
+00:01:17.450 --> 00:01:20.150
+Just let me know if you could
+see that I'm there.
+
+84b4c640-2181-416d-bb41-9161dd43cdba-0
+00:01:20.870 --> 00:01:21.210
+Yeah.
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-0
+00:01:23.210 --> 00:01:26.395
+You see my mouse moving around?
+Yep. Cool. Perfect. So
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-1
+00:01:26.395 --> 00:01:29.696
+essentially, this is the new
+home page. Um, this is very
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-2
+00:01:29.696 --> 00:01:32.996
+similar to what you would have
+seen in the first concept
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-3
+00:01:32.996 --> 00:01:36.413
+release, so there's not much
+change here. The only changes
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-4
+00:01:36.413 --> 00:01:39.830
+that we've made is this top left
+section, so you'll have a
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-5
+00:01:39.830 --> 00:01:43.131
+welcome dashboard, the ability
+to sort of see your saved
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-6
+00:01:43.131 --> 00:01:46.490
+reports, and you could also
+create a report straight from
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-7
+00:01:46.490 --> 00:01:50.022
+here. Everything else has stayed
+the same. One thing we have
+
+7da154ce-b4dd-4edc-ad7a-ee1adb824ac1-8
+00:01:50.022 --> 00:01:53.150
+added since the last time we
+spoke is the ability to.
+
+6ef5579f-446b-4b7a-93b0-02bf17ea2dc3-0
+00:01:53.220 --> 00:01:56.734
+Save a report. So I'll go on to
+that in just in just a second,
+
+6ef5579f-446b-4b7a-93b0-02bf17ea2dc3-1
+00:01:56.734 --> 00:02:00.025
+but once you have saved a
+report, you'll be able to access
+
+6ef5579f-446b-4b7a-93b0-02bf17ea2dc3-2
+00:02:00.025 --> 00:02:01.810
+that directly in your home page.
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-0
+00:02:02.490 --> 00:02:06.229
+Um, on that save report. Or you
+could see this little icon here
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-1
+00:02:06.229 --> 00:02:09.618
+which says my saved. If you
+click that you could see your
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-2
+00:02:09.618 --> 00:02:13.240
+saved reports there as well. Got
+a first feedback already. So
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-3
+00:02:13.240 --> 00:02:16.629
+actually, I mean I would
+understand for sure not the only
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-4
+00:02:16.629 --> 00:02:20.076
+customer you have. I would
+understand if there's customers
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-5
+00:02:20.076 --> 00:02:23.816
+who think that's very useful for
+me, not so much because I I do
+
+e294d0e8-08ca-4865-bb42-f2d8fc6d293e-6
+00:02:23.816 --> 00:02:24.050
+not.
+
+2c6f765c-283d-451a-a7d4-28c87e95403d-0
+00:02:24.830 --> 00:02:29.084
+Use reports on a daily basis. So
+I don't mind if I have to go a
+
+2c6f765c-283d-451a-a7d4-28c87e95403d-1
+00:02:29.084 --> 00:02:32.939
+little bit more complicated way
+to get there. I mean it's
+
+2c6f765c-283d-451a-a7d4-28c87e95403d-2
+00:02:32.939 --> 00:02:37.061
+complicated, it's in the header
+basically, right? So actually
+
+2c6f765c-283d-451a-a7d4-28c87e95403d-3
+00:02:37.061 --> 00:02:40.916
+probably if I were free to
+choose, I would prefer to have
+
+2c6f765c-283d-451a-a7d4-28c87e95403d-4
+00:02:40.916 --> 00:02:41.980
+more meaningful.
+
+7283f224-8922-4974-b7ba-628682a18d54-0
+00:02:42.660 --> 00:02:46.993
+Current information on on on on
+the page, then uh, the old stuff
+
+7283f224-8922-4974-b7ba-628682a18d54-1
+00:02:46.993 --> 00:02:47.860
+that I saved.
+
+6c5c9ae1-8e06-46ca-b533-00f5e6a7c25e-0
+00:02:52.110 --> 00:02:54.725
+That makes absolute sense,
+because you don't typically use
+
+6c5c9ae1-8e06-46ca-b533-00f5e6a7c25e-1
+00:02:54.725 --> 00:02:57.650
+reports that much, so you'd want
+something a little bit different
+
+6c5c9ae1-8e06-46ca-b533-00f5e6a7c25e-2
+00:02:57.650 --> 00:02:58.980
+than a lot of people would be.
+
+5ba44c9a-953a-4fe0-abaa-3a521d5f1fb2-0
+00:03:01.050 --> 00:03:04.535
+Probably complicated, I don't
+know. But as a customer I don't
+
+5ba44c9a-953a-4fe0-abaa-3a521d5f1fb2-1
+00:03:04.535 --> 00:03:06.840
+have to care. I guess um would
+be great.
+
+f35ca8e1-0547-4f42-8ddf-83c8fcb97876-0
+00:03:08.370 --> 00:03:08.720
+That's.
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-0
+00:03:09.820 --> 00:03:13.363
+But as many positions or or
+places within the database, if
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-1
+00:03:13.363 --> 00:03:17.267
+you could provide freedom to the
+to the user to customize it. So
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-2
+00:03:17.267 --> 00:03:20.991
+for example I wouldn't mind if
+if that. If that's the way the
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-3
+00:03:20.991 --> 00:03:24.714
+the platform presents itself on
+1st entry, fine. But if the I
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-4
+00:03:24.714 --> 00:03:28.378
+then could say hey, carve out
+the left section, I'm just not
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-5
+00:03:28.378 --> 00:03:31.741
+interested in that. And by
+default then because it's my
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-6
+00:03:31.741 --> 00:03:35.585
+personalized setting, the whole
+thing would never show up again
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-7
+00:03:35.585 --> 00:03:39.189
+for me and I could choose to
+whatever is relevant for me to
+
+0af26cf1-0bf8-4fe0-bcd8-c9aa4e682a0e-8
+00:03:39.189 --> 00:03:39.850
+show their.
+
+6356cda1-291c-40c2-859c-c944e567a42f-0
+00:03:40.250 --> 00:03:43.260
+To show up there as as a
+default, that would be a great
+
+6356cda1-291c-40c2-859c-c944e567a42f-1
+00:03:43.260 --> 00:03:43.690
+feature.
+
+d53bcd0a-68a1-4ade-b5bf-ae7d79c9cf4d-0
+00:03:44.530 --> 00:03:48.421
+That's another one before I
+forget because I don't know if
+
+d53bcd0a-68a1-4ade-b5bf-ae7d79c9cf4d-1
+00:03:48.421 --> 00:03:52.643
+we touch on something that would
+remind me. Another really cool
+
+d53bcd0a-68a1-4ade-b5bf-ae7d79c9cf4d-2
+00:03:52.643 --> 00:03:56.732
+thing would be bulk upload. So
+for example if I have an Excel
+
+d53bcd0a-68a1-4ade-b5bf-ae7d79c9cf4d-3
+00:03:56.732 --> 00:03:58.250
+sheet with 15 products.
+
+2c3d1667-725f-4d2d-8e7b-d05a733d96ae-0
+00:03:59.310 --> 00:04:02.874
+And I had the possibility to to
+bulk upload those 15 generic or
+
+2c3d1667-725f-4d2d-8e7b-d05a733d96ae-1
+00:04:02.874 --> 00:04:06.160
+branded names and the database
+would retrieve the whatever
+
+2c3d1667-725f-4d2d-8e7b-d05a733d96ae-2
+00:04:06.160 --> 00:04:07.720
+relevant information for it.
+
+9065f100-f05e-4071-bf1c-2f364d56eb87-0
+00:04:08.490 --> 00:04:11.935
+Is that something you do in the
+existing platform? Yes, not
+
+9065f100-f05e-4071-bf1c-2f364d56eb87-1
+00:04:11.935 --> 00:04:15.610
+many, but those who have it, I
+love it. I mean, I just love it,
+
+9065f100-f05e-4071-bf1c-2f364d56eb87-2
+00:04:15.610 --> 00:04:18.309
+it feature and it's so saving me
+so much time.
+
+f460de9f-5fe0-480e-a748-2584d0ac3fdb-0
+00:04:20.180 --> 00:04:20.550
+Fine.
+
+20c32ef1-642b-4b97-a027-32bf33e8eb1f-0
+00:04:21.700 --> 00:04:25.630
+Um, so that's good feedback.
+Thank you for mentioning that.
+
+20c32ef1-642b-4b97-a027-32bf33e8eb1f-1
+00:04:25.630 --> 00:04:29.625
+And anything else on the home
+page, so very good points that
+
+20c32ef1-642b-4b97-a027-32bf33e8eb1f-2
+00:04:29.625 --> 00:04:33.817
+you've mentioned and completely
+understandable here. What I see
+
+20c32ef1-642b-4b97-a027-32bf33e8eb1f-3
+00:04:33.817 --> 00:04:34.800
+you mean, yeah.
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-0
+00:04:35.550 --> 00:04:39.133
+Umm, OK, let let me see what,
+what else advise our sales by
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-1
+00:04:39.133 --> 00:04:42.776
+indication. Why, why would I
+have, uh, the quick links there
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-2
+00:04:42.776 --> 00:04:46.419
+that I have there is it what
+once did I select it for or how
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-3
+00:04:46.419 --> 00:04:50.122
+are they chosen? So yeah, that's
+the idea. So if you've got a
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-4
+00:04:50.122 --> 00:04:53.288
+specific data view or a
+dashboard or you've searched
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-5
+00:04:53.288 --> 00:04:57.050
+something specific, the ability
+to save those as a QikLink and
+
+14d35c92-4d19-40bc-bae2-fc57a4e476ad-6
+00:04:57.050 --> 00:04:59.380
+that would be completely
+customizable.
+
+4dadd9fd-c208-4601-94ce-ad037338ea5d-0
+00:05:02.330 --> 00:05:06.227
+Market Explorer could also be
+very cool, depending on I I
+
+4dadd9fd-c208-4601-94ce-ad037338ea5d-1
+00:05:06.227 --> 00:05:07.840
+didn't like much the BI.
+
+38df5d0f-c8bc-4a5f-ac77-8f8f626c0b55-0
+00:05:08.960 --> 00:05:14.349
+Um based thing that we currently
+have because it offers minimum
+
+38df5d0f-c8bc-4a5f-ac77-8f8f626c0b55-1
+00:05:14.349 --> 00:05:15.360
+flexibility.
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-0
+00:05:16.310 --> 00:05:20.011
+Yeah. And and and and remind you
+that everything that I see on
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-1
+00:05:20.011 --> 00:05:23.418
+screen, I want to be able to
+export in a, in a, in a in a
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-2
+00:05:23.418 --> 00:05:27.119
+good way, you know, So what if
+you only present like like it's
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-3
+00:05:27.119 --> 00:05:30.467
+a little bit with the market
+Explorer and with the other
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-4
+00:05:30.467 --> 00:05:33.757
+dashboards. The problem is data
+is good, sometimes even
+
+f75bc39c-d7b9-4c32-8d32-67a5496be713-5
+00:05:33.757 --> 00:05:35.049
+filterability is good.
+
+79b0b87a-7e5c-42ac-8fac-3827b47145f6-0
+00:05:35.870 --> 00:05:39.128
+But then I don't get to the data
+you know in in a way that I can
+
+79b0b87a-7e5c-42ac-8fac-3827b47145f6-1
+00:05:39.128 --> 00:05:39.730
+use it well.
+
+16fe022f-b927-4ec4-9b1b-12a2581de981-0
+00:05:40.550 --> 00:05:44.800
+OK, that makes sense. Um, so
+yeah, you definitely be able to.
+
+3e4da28d-bdb5-4550-b7c6-9df676d81f69-0
+00:05:45.680 --> 00:05:48.987
+Export it and that's exactly
+what you plus also affect
+
+3e4da28d-bdb5-4550-b7c6-9df676d81f69-1
+00:05:48.987 --> 00:05:52.535
+feature what intrinsically you
+used to have in most of the
+
+3e4da28d-bdb5-4550-b7c6-9df676d81f69-2
+00:05:52.535 --> 00:05:54.820
+parts whenever and wherever
+possible.
+
+44434503-557c-4d26-b282-743a04ac20c0-0
+00:05:55.670 --> 00:05:59.723
+Uh, make it uh, possible for for
+the user to edit it, to change
+
+44434503-557c-4d26-b282-743a04ac20c0-1
+00:05:59.723 --> 00:06:03.206
+the time scale, to change
+whatever. I mean, what makes
+
+44434503-557c-4d26-b282-743a04ac20c0-2
+00:06:03.206 --> 00:06:06.879
+sense? Of course, if you change
+everything, then maybe it
+
+44434503-557c-4d26-b282-743a04ac20c0-3
+00:06:06.879 --> 00:06:09.919
+doesn't make sense, but but so
+so that you can.
+
+b9243f81-a067-49f3-ac06-b5991b8a9353-0
+00:06:11.480 --> 00:06:16.798
+Like like in many of the of the
+states where you can say you can
+
+b9243f81-a067-49f3-ac06-b5991b8a9353-1
+00:06:16.798 --> 00:06:20.890
+change the the rate of the range
+of dates or the.
+
+f2835118-4586-4c0a-8717-e9f5d92999d0-0
+00:06:23.210 --> 00:06:25.280
+What was the other thing that I
+had in mind?
+
+b8b11c13-c2a5-49c7-a3d4-9d12d14a4773-0
+00:06:26.230 --> 00:06:26.980
+Makes sense?
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-0
+00:06:27.740 --> 00:06:32.474
+Ohh for example, if you look at
+the top ten products that you
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-1
+00:06:32.474 --> 00:06:37.286
+can easily say I wanna see top
+15, top 20, top 50, whatever it
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-2
+00:06:37.286 --> 00:06:41.715
+might be. And there's another
+thing which I'm complaining
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-3
+00:06:41.715 --> 00:06:46.298
+about for years now and it just
+annoyed me this week and it
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-4
+00:06:46.298 --> 00:06:50.880
+annoys me very much on on on a
+frequent basis. OK, what was
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-5
+00:06:50.880 --> 00:06:55.615
+that? And that is if so, for
+example if you look into disease
+
+75dd5399-f582-46f4-924b-9d44ab003d9a-6
+00:06:55.615 --> 00:06:57.830
+like CLL kind of of leukemia.
+
+46154e15-05f7-433d-9813-ca99694df9f9-0
+00:06:58.070 --> 00:07:01.614
+And look at the top ten products
+by sales then one of the
+
+46154e15-05f7-433d-9813-ca99694df9f9-1
+00:07:01.614 --> 00:07:05.342
+products is IMBRUVICA, but the
+problem is to improve because
+
+46154e15-05f7-433d-9813-ca99694df9f9-2
+00:07:05.342 --> 00:07:09.131
+marketed by AbbVie and improving
+cost marketed by Johnson and
+
+46154e15-05f7-433d-9813-ca99694df9f9-3
+00:07:09.131 --> 00:07:09.620
+Johnson.
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-0
+00:07:11.080 --> 00:07:15.141
+The rating on the product, so
+it's the same API and all that,
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-1
+00:07:15.141 --> 00:07:19.269
+right? And my view is different
+you know if I ask the database
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-2
+00:07:19.269 --> 00:07:23.396
+what is the top ten products in
+an indication then it's 10 top
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-3
+00:07:23.396 --> 00:07:27.524
+the top ten products that I'm
+interested in and not the top 10
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-4
+00:07:27.524 --> 00:07:31.520
+marketeers of the same products.
+You know if they're painful
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-5
+00:07:31.520 --> 00:07:35.582
+thing there is that for one you
+don't get the top ten because
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-6
+00:07:35.582 --> 00:07:39.644
+sometimes I couldn't recall one
+now but there are indications
+
+5805a4e3-0910-48e1-ba19-e8f1d144e6bb-7
+00:07:39.644 --> 00:07:41.020
+where where you have.
+
+59d65503-1356-4ab7-a35a-cad444f22376-0
+00:07:41.140 --> 00:07:44.967
+Several products marketed by
+several companies. So you don't
+
+59d65503-1356-4ab7-a35a-cad444f22376-1
+00:07:44.967 --> 00:07:48.921
+have a top ten, you have a top
+six. Yeah, OK, you have the top
+
+59d65503-1356-4ab7-a35a-cad444f22376-2
+00:07:48.921 --> 00:07:52.874
+ten companies, but but top, top
+six products and then I always
+
+59d65503-1356-4ab7-a35a-cad444f22376-3
+00:07:52.874 --> 00:07:56.702
+have to export it and manually
+pull the numbers together for
+
+59d65503-1356-4ab7-a35a-cad444f22376-4
+00:07:56.702 --> 00:08:00.404
+the same product. The same
+applies then when I go into the
+
+59d65503-1356-4ab7-a35a-cad444f22376-5
+00:08:00.404 --> 00:08:01.660
+sales by indication.
+
+99020f6c-ba4d-4ee2-a14e-19d0506f5f08-0
+00:08:02.740 --> 00:08:06.975
+Then if you if if you look at
+the if, I don't start out the
+
+99020f6c-ba4d-4ee2-a14e-19d0506f5f08-1
+00:08:06.975 --> 00:08:11.140
+search with the indication, but
+if I start with IMBRUVICA.
+
+cee5f0f5-d1f8-4c10-8257-7ede855ea5bc-0
+00:08:12.070 --> 00:08:16.540
+Then I get improved because
+Salesforce CLL Johnson, Johnson
+
+cee5f0f5-d1f8-4c10-8257-7ede855ea5bc-1
+00:08:16.540 --> 00:08:21.159
+at the improved because sales
+for uh whatever other leukemias
+
+cee5f0f5-d1f8-4c10-8257-7ede855ea5bc-2
+00:08:21.159 --> 00:08:25.928
+they have always split by by by
+the companies. Very painful for
+
+cee5f0f5-d1f8-4c10-8257-7ede855ea5bc-3
+00:08:25.928 --> 00:08:29.728
+me because there's always
+requires a lot of manual
+
+cee5f0f5-d1f8-4c10-8257-7ede855ea5bc-4
+00:08:29.728 --> 00:08:33.230
+reshuffling of the data until it
+fits nothing.
+
+a3cb252b-adc9-4748-83bf-29234b487ff8-0
+00:08:35.040 --> 00:08:39.709
+You see I I collected quite a
+some uh, no that's good. This is
+
+a3cb252b-adc9-4748-83bf-29234b487ff8-1
+00:08:39.709 --> 00:08:44.082
+this is good. When I export
+forecast data the the revenues
+
+a3cb252b-adc9-4748-83bf-29234b487ff8-2
+00:08:44.082 --> 00:08:47.640
+when it when it becomes uh
+figures larger than.
+
+61e9caee-2679-4de6-a6e7-6892e3b8486a-0
+00:08:49.020 --> 00:08:49.790
+1 billion.
+
+0cceb7d6-855b-40e0-af6e-cca40dfedcb0-0
+00:08:50.840 --> 00:08:54.910
+Then the semi colon or whatever
+you have to to.
+
+b2cbd819-5ac0-4bdd-a8b8-987f14805116-0
+00:08:55.880 --> 00:08:56.580
+Umm.
+
+ab7d6d7b-c87e-4b1d-8a36-4470004392c3-0
+00:08:57.610 --> 00:09:01.661
+Represent a number. Uh,
+excellent. Many times doesn't uh
+
+ab7d6d7b-c87e-4b1d-8a36-4470004392c3-1
+00:09:01.661 --> 00:09:06.281
+in in some exports excel doesn't
+let let let me put it that way,
+
+ab7d6d7b-c87e-4b1d-8a36-4470004392c3-2
+00:09:06.281 --> 00:09:10.688
+and some export. Excel doesn't
+recognize the exported figures
+
+ab7d6d7b-c87e-4b1d-8a36-4470004392c3-3
+00:09:10.688 --> 00:09:11.470
+as numbers.
+
+7e6d8913-a990-44af-b675-2fed5a5b2216-0
+00:09:12.400 --> 00:09:16.617
+OK, and you cannot use it really
+to calculate like you do usually
+
+7e6d8913-a990-44af-b675-2fed5a5b2216-1
+00:09:16.617 --> 00:09:20.451
+in in Excel in Excel. So it
+should just just make sure that
+
+7e6d8913-a990-44af-b675-2fed5a5b2216-2
+00:09:20.451 --> 00:09:24.349
+whatever I export is a number
+and then I can that it adds up
+
+7e6d8913-a990-44af-b675-2fed5a5b2216-3
+00:09:24.349 --> 00:09:28.311
+all the numbers. When I with in
+Excel highlight all the cells
+
+7e6d8913-a990-44af-b675-2fed5a5b2216-4
+00:09:28.311 --> 00:09:31.890
+that I'm interested in that then
+I want to see the sum.
+
+a5260075-5bcd-416a-9f6c-03ec3293153c-0
+00:09:33.220 --> 00:09:36.796
+OK, cool. That's fine. Um,
+something that I just wanted to
+
+a5260075-5bcd-416a-9f6c-03ec3293153c-1
+00:09:36.796 --> 00:09:40.432
+mention. Sorry because I know
+we've had this call in for 45
+
+a5260075-5bcd-416a-9f6c-03ec3293153c-2
+00:09:40.432 --> 00:09:44.311
+minutes, so we've probably got
+about 1516 more minutes. Are you
+
+a5260075-5bcd-416a-9f6c-03ec3293153c-3
+00:09:44.311 --> 00:09:48.009
+OK for time or are you, do you
+need to stop before then? No,
+
+a5260075-5bcd-416a-9f6c-03ec3293153c-4
+00:09:48.009 --> 00:09:50.070
+no, actually I would be
+flexible.
+
+931f1711-f38d-4d52-9074-747c4481511a-0
+00:09:50.980 --> 00:09:54.288
+Yeah. OK. If we go a few minutes
+over, would that be OK? No
+
+931f1711-f38d-4d52-9074-747c4481511a-1
+00:09:54.288 --> 00:09:57.541
+problem at all? Yeah, I don't
+think we will, but should be
+
+931f1711-f38d-4d52-9074-747c4481511a-2
+00:09:57.541 --> 00:10:01.070
+fine. Cool, cool. That's fine.
+Brilliant. So what I'll show you
+
+931f1711-f38d-4d52-9074-747c4481511a-3
+00:10:01.070 --> 00:10:04.433
+then is just, I'll sort of show
+you the two main sections, 1
+
+931f1711-f38d-4d52-9074-747c4481511a-4
+00:10:04.433 --> 00:10:07.907
+being the ability to create a
+report. I'll go through that one
+
+931f1711-f38d-4d52-9074-747c4481511a-5
+00:10:07.907 --> 00:10:10.829
+a little bit quicker just
+because I know that's less
+
+931f1711-f38d-4d52-9074-747c4481511a-6
+00:10:10.829 --> 00:10:14.358
+relevant for you. And then we'll
+look at the browse experience.
+
+931f1711-f38d-4d52-9074-747c4481511a-7
+00:10:14.358 --> 00:10:17.280
+So they both contain data tables
+which have the same
+
+931f1711-f38d-4d52-9074-747c4481511a-8
+00:10:17.280 --> 00:10:20.754
+functionality, but the ability
+to create a report you can kind
+
+931f1711-f38d-4d52-9074-747c4481511a-9
+00:10:20.754 --> 00:10:20.920
+of.
+
+e8e6b136-5231-44da-9df2-0cfaa4e1806d-0
+00:10:21.040 --> 00:10:22.080
+Straight from the home page.
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-0
+00:10:23.130 --> 00:10:26.666
+So we'll have a selection of
+report templates available. And
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-1
+00:10:26.666 --> 00:10:30.202
+just forgive the small font
+here. Um, I'll try zoom. Can you
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-2
+00:10:30.202 --> 00:10:33.623
+see that? OK do you want to
+zoom? Yeah, yeah, OK cool. But
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-3
+00:10:33.623 --> 00:10:37.275
+yeah, you'll be able to search
+through them. Right now we only
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-4
+00:10:37.275 --> 00:10:41.043
+have 3, just for an example. You
+can then see in the preview and
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-5
+00:10:41.043 --> 00:10:44.174
+then let's just say for example,
+if you're looking at
+
+ada68045-fe2a-4a80-bc0f-6785f981a42f-6
+00:10:44.174 --> 00:10:44.870
+indications.
+
+e10388c8-1222-4414-942b-feb618c7a688-0
+00:10:45.610 --> 00:10:46.970
+Click generate report.
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-0
+00:10:48.660 --> 00:10:52.432
+So we've moved away from the
+sort of step one, Step 2, step
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-1
+00:10:52.432 --> 00:10:56.204
+three, and then you have all
+your data. Some of the data is
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-2
+00:10:56.204 --> 00:11:00.039
+not showing because we've not
+populated all of the data. And
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-3
+00:11:00.039 --> 00:11:04.000
+I'll just show you the sort of
+the data table functionalities.
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-4
+00:11:04.000 --> 00:11:07.961
+You could then add and remove
+data through here, so within the
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-5
+00:11:07.961 --> 00:11:11.608
+manage columns. So this is
+probably something you've seen
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-6
+00:11:11.608 --> 00:11:15.632
+when you seen the first version,
+but we've improved it slightly
+
+fedc84c1-de39-4de2-b70d-e39a60151a90-7
+00:11:15.632 --> 00:11:19.090
+in terms of the ability to
+browse. So, um, you've got.
+
+f7bdd3f2-64a9-41a8-aefb-4dca0190a517-0
+00:11:19.250 --> 00:11:22.292
+Yes. Yeah, I think that's
+something you specifically
+
+f7bdd3f2-64a9-41a8-aefb-4dca0190a517-1
+00:11:22.292 --> 00:11:26.080
+mentioned, which is why I wanted
+to show that 200 to keywords and
+
+f7bdd3f2-64a9-41a8-aefb-4dca0190a517-2
+00:11:26.080 --> 00:11:29.582
+you don't know exactly how you
+have to define them then. OK,
+
+f7bdd3f2-64a9-41a8-aefb-4dca0190a517-3
+00:11:29.582 --> 00:11:33.083
+very good. Yeah, cool. So you
+could search within those, you
+
+f7bdd3f2-64a9-41a8-aefb-4dca0190a517-4
+00:11:33.083 --> 00:11:35.379
+could filter on selected or
+unselected.
+
+918c7c20-7b59-4a1d-83f8-d77d4adad54d-0
+00:11:36.840 --> 00:11:40.241
+Which would allow for a safe
+that I start with the wild card
+
+918c7c20-7b59-4a1d-83f8-d77d4adad54d-1
+00:11:40.241 --> 00:11:43.698
+and and just take the ending of
+the word and yeah, well let's
+
+918c7c20-7b59-4a1d-83f8-d77d4adad54d-2
+00:11:43.698 --> 00:11:47.156
+try it. A little bit logical,
+let's let's try it. What do you
+
+918c7c20-7b59-4a1d-83f8-d77d4adad54d-3
+00:11:47.156 --> 00:11:48.160
+want me to search?
+
+16131e48-4680-4b9f-8adb-13e389e32f6c-0
+00:11:49.050 --> 00:11:50.220
+Um.
+
+31636201-7852-460e-ab8c-b34cf18db361-0
+00:11:51.720 --> 00:11:55.820
+Star or what? What would a wild
+card is? And then uh.
+
+4fbfaf03-f674-4580-97de-f066d64846bb-0
+00:11:57.750 --> 00:12:01.875
+Start. So nothing's come up for
+no, no, no, no not not. Store
+
+4fbfaf03-f674-4580-97de-f066d64846bb-1
+00:12:01.875 --> 00:12:05.934
+the wild card so that it says
+what's before that, before the
+
+4fbfaf03-f674-4580-97de-f066d64846bb-2
+00:12:05.934 --> 00:12:09.794
+letters that I give you. Then it
+should ignore if there's
+
+4fbfaf03-f674-4580-97de-f066d64846bb-3
+00:12:09.794 --> 00:12:13.720
+anything before that. So what
+I'm actually looking for is.
+
+4f5f67c6-ca8f-4648-9e22-b412597ae1ad-0
+00:12:15.370 --> 00:12:15.900
+Tunip.
+
+04adfc20-ad3f-4ff6-aa20-6cad53cd2b69-0
+00:12:17.330 --> 00:12:21.400
+How do I spell that? TI. Yep
+TIN.
+
+a25d08f3-dbf4-4a7a-b77d-f2bcea6858e8-0
+00:12:23.090 --> 00:12:29.188
+Uh to IB exactly. I turn it. Is
+that where P at the end? No B
+
+a25d08f3-dbf4-4a7a-b77d-f2bcea6858e8-1
+00:12:29.188 --> 00:12:30.270
+like bravo.
+
+7e05d0d1-2d17-46ea-8470-3ef6bc5204c5-0
+00:12:31.300 --> 00:12:34.420
+Yep. OK. So that could be one of
+two things. It could be that
+
+7e05d0d1-2d17-46ea-8470-3ef6bc5204c5-1
+00:12:34.420 --> 00:12:37.440
+it's not picking up the data
+because the data is not there.
+
+ce6ee893-ea08-4ce1-b0e7-183895d8f229-0
+00:12:38.840 --> 00:12:43.561
+Is that is that a drug? No, it
+actually my my idea is I would
+
+ce6ee893-ea08-4ce1-b0e7-183895d8f229-1
+00:12:43.561 --> 00:12:48.512
+like to have maximum freedom to
+search and there's uh, imatinib,
+
+ce6ee893-ea08-4ce1-b0e7-183895d8f229-2
+00:12:48.512 --> 00:12:50.340
+ibrutinib or lopper rip.
+
+a3044cf8-99f0-4d54-af10-138ce200398b-0
+00:12:51.580 --> 00:12:55.542
+Osimertinib, you know, it's
+there. There's hundreds of drugs
+
+a3044cf8-99f0-4d54-af10-138ce200398b-1
+00:12:55.542 --> 00:12:59.635
+which have this ending because
+the ending actually is a ending
+
+a3044cf8-99f0-4d54-af10-138ce200398b-2
+00:12:59.635 --> 00:13:01.390
+which is giving by The Who.
+
+e30fad69-2c05-4d61-93e3-6656a603d528-0
+00:13:02.910 --> 00:13:06.723
+Ending in itself like like like
+MAP for. Just choose map and all
+
+e30fad69-2c05-4d61-93e3-6656a603d528-1
+00:13:06.723 --> 00:13:10.185
+all the different maps that you
+have. The ending in itself
+
+e30fad69-2c05-4d61-93e3-6656a603d528-2
+00:13:10.185 --> 00:13:11.770
+already defines a specific.
+
+f26cf728-ceee-4962-959d-ad4eb2b32907-0
+00:13:12.480 --> 00:13:13.940
+Type of of of drug.
+
+fd41d52c-03d7-4556-9bd2-629b15e0565e-0
+00:13:15.150 --> 00:13:18.926
+Yeah, and that would be awesome,
+of course, if I could add, if I
+
+fd41d52c-03d7-4556-9bd2-629b15e0565e-1
+00:13:18.926 --> 00:13:22.471
+could, uh, search for all those
+drugs of that class, because
+
+fd41d52c-03d7-4556-9bd2-629b15e0565e-2
+00:13:22.471 --> 00:13:24.970
+sometimes that's the question
+that occurs.
+
+bf3a2499-095a-4470-8f7c-451b813ee499-0
+00:13:25.970 --> 00:13:29.513
+OK, that's that's good feedback.
+I'll feed that back um, once you
+
+bf3a2499-095a-4470-8f7c-451b813ee499-1
+00:13:29.513 --> 00:13:32.680
+do find something. So whether
+you've searched or you've um
+
+bf3a2499-095a-4470-8f7c-451b813ee499-2
+00:13:32.680 --> 00:13:35.901
+your browser. So let's just say
+for example classifications
+
+bf3a2499-095a-4470-8f7c-451b813ee499-3
+00:13:35.901 --> 00:13:37.780
+that's showing me that there's
+31.
+
+5cc5241c-9cfe-49d7-b9ea-295ca6bc933f-0
+00:13:38.610 --> 00:13:42.412
+Um, more fields underneath that.
+But let's just, I'm just going
+
+5cc5241c-9cfe-49d7-b9ea-295ca6bc933f-1
+00:13:42.412 --> 00:13:46.275
+to pick a random one. Uh, yeah.
+And just as you browsed over it,
+
+5cc5241c-9cfe-49d7-b9ea-295ca6bc933f-2
+00:13:46.275 --> 00:13:47.820
+pharmacological class and.
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-0
+00:13:49.090 --> 00:13:52.591
+I hope you get that cleaned up.
+The pharmacological class and
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-1
+00:13:52.591 --> 00:13:55.866
+mechanism of action and all
+that. Ohh yeah, I always have
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-2
+00:13:55.866 --> 00:13:59.367
+troubles with that. No, that's
+yeah, we are in the process of
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-3
+00:13:59.367 --> 00:14:02.698
+populating all the data. So
+anything you add will then get
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-4
+00:14:02.698 --> 00:14:06.087
+added to the bottom of this
+column here active columns. You
+
+8ea722d0-4172-449d-9d77-e8c45f24f90f-5
+00:14:06.087 --> 00:14:08.119
+can then move these columns
+around.
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-0
+00:14:09.070 --> 00:14:12.159
+So you can drag and drop, let's
+say for example, if you wanted
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-1
+00:14:12.159 --> 00:14:15.346
+to have therapeutic category to
+be the first column on the left,
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-2
+00:14:15.346 --> 00:14:18.386
+you could just put that at the
+top, um, and you could sort of
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-3
+00:14:18.386 --> 00:14:21.475
+add and remove as you want. So
+if you wanted to remove a known
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-4
+00:14:21.475 --> 00:14:24.662
+mechanism of action level 4, you
+could just get that, get rid of
+
+23ecfe57-4ff3-4a19-8278-f59cf71bb3fa-5
+00:14:24.662 --> 00:14:24.810
+it.
+
+574346b0-ff2d-4ad7-a139-9c29a36c0173-0
+00:14:25.620 --> 00:14:29.313
+Click apply all changes again.
+I'm just sort of showing you how
+
+574346b0-ff2d-4ad7-a139-9c29a36c0173-1
+00:14:29.313 --> 00:14:33.007
+the data table works. Um, so if
+you scroll it, depending on how
+
+574346b0-ff2d-4ad7-a139-9c29a36c0173-2
+00:14:33.007 --> 00:14:34.219
+many rows you've got.
+
+c012a872-c41e-4707-8462-6132c5b13642-0
+00:14:36.500 --> 00:14:39.485
+You could. Now the top row will
+always freeze, so you could
+
+c012a872-c41e-4707-8462-6132c5b13642-1
+00:14:39.485 --> 00:14:42.470
+always, you could Scroll down
+and you could always see that
+
+c012a872-c41e-4707-8462-6132c5b13642-2
+00:14:42.470 --> 00:14:45.556
+that row stays there. And you
+could also do that horizontally
+
+c012a872-c41e-4707-8462-6132c5b13642-3
+00:14:45.556 --> 00:14:48.641
+is also if you wanted to, say
+for example if you're scrolling
+
+c012a872-c41e-4707-8462-6132c5b13642-4
+00:14:48.641 --> 00:14:51.527
+horizontally and you always
+wanted to see the therapeutic
+
+c012a872-c41e-4707-8462-6132c5b13642-5
+00:14:51.527 --> 00:14:52.970
+category, what you can do is.
+
+43fdd691-8894-422d-8d30-5c4eddd64305-0
+00:14:53.730 --> 00:14:57.279
+On on each column header you
+have these three dots. If you
+
+43fdd691-8894-422d-8d30-5c4eddd64305-1
+00:14:57.279 --> 00:15:00.889
+hover over it you can see that
+and then you could click pin
+
+43fdd691-8894-422d-8d30-5c4eddd64305-2
+00:15:00.889 --> 00:15:04.499
+column to the left. So if I've
+pinned to that column to the
+
+43fdd691-8894-422d-8d30-5c4eddd64305-3
+00:15:04.499 --> 00:15:08.169
+left, so then yeah that will
+always stay there. And then you
+
+43fdd691-8894-422d-8d30-5c4eddd64305-4
+00:15:08.169 --> 00:15:11.959
+could also set it and I missed
+it. And I can also reshuffle. I
+
+43fdd691-8894-422d-8d30-5c4eddd64305-5
+00:15:11.959 --> 00:15:15.449
+can yeah exactly the mechanism
+of action Level 3 before 1
+
+43fdd691-8894-422d-8d30-5c4eddd64305-6
+00:15:15.449 --> 00:15:19.059
+exactly. So like here exactly,
+exactly got it. Go back into
+
+43fdd691-8894-422d-8d30-5c4eddd64305-7
+00:15:19.059 --> 00:15:19.300
+the.
+
+5f035694-71b5-41d2-8af3-aa75e780c919-0
+00:15:20.480 --> 00:15:23.272
+And then, yeah, that's basically
+shifted it around. I'll just
+
+5f035694-71b5-41d2-8af3-aa75e780c919-1
+00:15:23.272 --> 00:15:26.020
+take a second to load up. But
+yeah, exactly what you've just
+
+5f035694-71b5-41d2-8af3-aa75e780c919-2
+00:15:26.020 --> 00:15:28.723
+said. And then you could also
+sort by ascending, descending
+
+5f035694-71b5-41d2-8af3-aa75e780c919-3
+00:15:28.723 --> 00:15:30.390
+and then you could also add
+filters.
+
+193aa76a-ed2f-46c4-b061-87bc91d4d45f-0
+00:15:31.330 --> 00:15:34.348
+Um, so your filters also have a
+search function, but you could
+
+193aa76a-ed2f-46c4-b061-87bc91d4d45f-1
+00:15:34.348 --> 00:15:37.079
+also, um, browse as well. So
+that's something that we've
+
+193aa76a-ed2f-46c4-b061-87bc91d4d45f-2
+00:15:37.079 --> 00:15:37.990
+added this release.
+
+94fabc44-ce75-4525-b455-bcba6a0e02f6-0
+00:15:38.790 --> 00:15:41.763
+And if you do have multiple
+things, maybe you could even
+
+94fabc44-ce75-4525-b455-bcba6a0e02f6-1
+00:15:41.763 --> 00:15:44.736
+like an Excel height empty
+cells, because there might be
+
+94fabc44-ce75-4525-b455-bcba6a0e02f6-2
+00:15:44.736 --> 00:15:47.970
+reason why a specific cell is
+empty and maybe I don't want to
+
+94fabc44-ce75-4525-b455-bcba6a0e02f6-3
+00:15:47.970 --> 00:15:49.169
+see it for that reason.
+
+4edae81a-e5c6-4973-a700-b5de42908fad-0
+00:15:50.380 --> 00:15:53.714
+So is that something you'd like?
+Yeah. But on the other hand, I I
+
+4edae81a-e5c6-4973-a700-b5de42908fad-1
+00:15:53.714 --> 00:15:56.745
+say make it exportable and I
+export it an excellent make it
+
+4edae81a-e5c6-4973-a700-b5de42908fad-2
+00:15:56.745 --> 00:15:59.877
+there. OK, well, you can have
+your own thoughts about it, but
+
+4edae81a-e5c6-4973-a700-b5de42908fad-3
+00:15:59.877 --> 00:16:03.161
+I'm not sure. It's just an idea
+that popped up, but I'm not sure
+
+4edae81a-e5c6-4973-a700-b5de42908fad-4
+00:16:03.161 --> 00:16:04.930
+if it makes sense to make it
+here.
+
+f718c8c7-125e-4e69-a3ed-d4821db757ca-0
+00:16:05.920 --> 00:16:08.157
+Yeah, no worries. I'm just
+sorry. I'm just going to note
+
+f718c8c7-125e-4e69-a3ed-d4821db757ca-1
+00:16:08.157 --> 00:16:08.550
+that down.
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-0
+00:16:11.400 --> 00:16:14.618
+This could be because some
+sometimes you know, I'm I'm only
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-1
+00:16:14.618 --> 00:16:17.729
+looking at data and I'm not
+really exporting. Sometimes I
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-2
+00:16:17.729 --> 00:16:21.001
+only want to see for because
+there's something very specific
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-3
+00:16:21.001 --> 00:16:24.487
+that I want to see. And then of
+course if there's a long list of
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-4
+00:16:24.487 --> 00:16:27.598
+products or companies or
+whatever it might be and and the
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-5
+00:16:27.598 --> 00:16:30.977
+the field that interests me the
+most is empty then I I have to
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-6
+00:16:30.977 --> 00:16:34.518
+scroll and scroll and scroll and
+don't get it all on one page and
+
+9fc5c0d2-8322-4626-8569-0658d29c4fa9-7
+00:16:34.518 --> 00:16:36.610
+so there might be some some use
+of it.
+
+fa8bffb4-06e0-4964-acfa-8b40fecef2b0-0
+00:16:37.660 --> 00:16:41.087
+Absolutely no, that's fine. That
+that makes complete sense. So
+
+fa8bffb4-06e0-4964-acfa-8b40fecef2b0-1
+00:16:41.087 --> 00:16:44.189
+let's just have a look at the
+UM, so we've seen the text
+
+fa8bffb4-06e0-4964-acfa-8b40fecef2b0-2
+00:16:44.189 --> 00:16:44.570
+filter.
+
+e71847e6-3242-4561-9fa8-f499364d8ff7-0
+00:16:45.260 --> 00:16:47.390
+Um, let's just see if there's
+any.
+
+c9ddeb2b-b57a-4e2b-9658-ae42ff6bad71-0
+00:16:54.960 --> 00:16:56.630
+I'm just going to see if I
+could.
+
+b7a28fc3-9a22-46e2-aa24-a4b0f4ebba3d-0
+00:16:57.730 --> 00:17:01.250
+Adding um some dates I could
+show you the date filter.
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-0
+00:17:03.160 --> 00:17:07.196
+If not, I can show you and and
+the individual reports that are
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-1
+00:17:07.196 --> 00:17:11.233
+set up from scratch would would
+be similar. It's just that the
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-2
+00:17:11.233 --> 00:17:15.013
+template gives you the chance to
+start from from something
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-3
+00:17:15.013 --> 00:17:18.793
+already. Exactly, yeah, OK,
+exactly what you've just said.
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-4
+00:17:18.793 --> 00:17:22.894
+So if I want to add a filter on
+a date, then you've got a from.
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-5
+00:17:22.894 --> 00:17:26.738
+So if I click into that you'll
+just select when you want to
+
+13670609-d0e6-473f-ae0f-923eb2b3cd32-6
+00:17:26.738 --> 00:17:29.750
+start and select a date and then
+two which is.
+
+234a3eff-8075-486e-8070-c6a1fe9ea0c9-0
+00:17:31.190 --> 00:17:33.469
+And also got some good
+solutions. Sometimes there's
+
+234a3eff-8075-486e-8070-c6a1fe9ea0c9-1
+00:17:33.469 --> 00:17:35.880
+still programs where where
+selecting the data can be a
+
+234a3eff-8075-486e-8070-c6a1fe9ea0c9-2
+00:17:35.880 --> 00:17:37.590
+little bit of a pain, but that's
+nice.
+
+31425974-71f9-4294-9a3c-f2696c3ddfee-0
+00:17:38.280 --> 00:17:41.513
+OK, cool. Is there any other
+feedback do you have on the on
+
+31425974-71f9-4294-9a3c-f2696c3ddfee-1
+00:17:41.513 --> 00:17:44.908
+the filters that you've seen?
+No, I think on a first glance in
+
+31425974-71f9-4294-9a3c-f2696c3ddfee-2
+00:17:44.908 --> 00:17:46.310
+the lot of sense and good.
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-0
+00:17:50.910 --> 00:17:54.080
+Umm, is there anything, um,
+sorry, I'll just show you a
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-1
+00:17:54.080 --> 00:17:57.648
+couple of other functionalities
+with regards to the data table
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-2
+00:17:57.648 --> 00:18:00.989
+and it'd be just good to get
+your overall feedback on what
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-3
+00:18:00.989 --> 00:18:04.386
+you've seen on the report. So
+let's say for example you've,
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-4
+00:18:04.386 --> 00:18:07.954
+then you've taken out what you
+need to, you've filtered if you
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-5
+00:18:07.954 --> 00:18:11.464
+want to, you're happy with that
+report, then you could do you
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-6
+00:18:11.464 --> 00:18:14.918
+could either export it to CSV or
+excel or you could save the
+
+dd3344fc-e112-4884-ade5-df1fee9f9238-7
+00:18:14.918 --> 00:18:17.920
+report. So let's just click save
+report, you'll see.
+
+9ba0039b-ec52-4950-afff-d230b9b4716f-0
+00:18:17.990 --> 00:18:21.467
+Little green side, I know this
+is not as relevant for you, but
+
+9ba0039b-ec52-4950-afff-d230b9b4716f-1
+00:18:21.467 --> 00:18:24.668
+it's just showing you the
+ability to do that and then you
+
+9ba0039b-ec52-4950-afff-d230b9b4716f-2
+00:18:24.668 --> 00:18:28.255
+could obviously access it there,
+which is and can you already in
+
+9ba0039b-ec52-4950-afff-d230b9b4716f-3
+00:18:28.255 --> 00:18:31.677
+this sandbox version exported
+into Excel, can we'll export it
+
+9ba0039b-ec52-4950-afff-d230b9b4716f-4
+00:18:31.677 --> 00:18:33.830
+and yeah, of course let's have a
+look.
+
+c1bc54d0-ff4b-488a-b00e-1837c107980d-0
+00:18:35.140 --> 00:18:38.550
+To CSV or right or no Excel,
+excel.
+
+ef4da655-2fea-4d2e-90da-2b5c70b96107-0
+00:18:39.400 --> 00:18:42.639
+No problem. So I'll just take a
+few seconds to actually load.
+
+ef4da655-2fea-4d2e-90da-2b5c70b96107-1
+00:18:42.639 --> 00:18:45.721
+Um, just it's just running a
+little bit slow, but we could
+
+ef4da655-2fea-4d2e-90da-2b5c70b96107-2
+00:18:45.721 --> 00:18:48.751
+definitely show you what it
+looks like once you've opened
+
+ef4da655-2fea-4d2e-90da-2b5c70b96107-3
+00:18:48.751 --> 00:18:49.640
+that as well, so.
+
+4330b5b1-8e2e-4045-a496-c7eabbded043-0
+00:18:50.950 --> 00:18:54.338
+Let's go through that and then
+what's you've also got here is
+
+4330b5b1-8e2e-4045-a496-c7eabbded043-1
+00:18:54.338 --> 00:18:57.782
+this reset button. So say for
+example you wanna go back to how
+
+4330b5b1-8e2e-4045-a496-c7eabbded043-2
+00:18:57.782 --> 00:19:01.062
+it was, you wanna remove all
+your filters, um, you want all
+
+4330b5b1-8e2e-4045-a496-c7eabbded043-3
+00:19:01.062 --> 00:19:04.286
+the columns to go back to the
+original position if I click
+
+4330b5b1-8e2e-4045-a496-c7eabbded043-4
+00:19:04.286 --> 00:19:06.200
+reset table and you could do
+that.
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-0
+00:19:07.550 --> 00:19:11.378
+But how far does it reset it?
+Does it reset until the start,
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-1
+00:19:11.378 --> 00:19:14.955
+so when it was fresh as the
+template was? Exactly. Yeah,
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-2
+00:19:14.955 --> 00:19:19.097
+when you loaded it, yeah. OK, so
+I'll just wait for this. Just an
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-3
+00:19:19.097 --> 00:19:23.051
+idea. Also maybe make your own
+thoughts about it would be cool
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-4
+00:19:23.051 --> 00:19:26.314
+if you could freeze it
+somewhere, you know, when it
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-5
+00:19:26.314 --> 00:19:30.080
+kind of filled it a bit and
+shuffle around with the table a
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-6
+00:19:30.080 --> 00:19:34.159
+bit and you're pretty happy with
+it as is for now, but you still
+
+2858aa98-d5f9-46a0-ae52-566d0f5c02be-7
+00:19:34.159 --> 00:19:37.360
+want to continue to to change
+things that you can.
+
+d9b68d85-af49-429a-8981-107bc6324e11-0
+00:19:37.430 --> 00:19:40.928
+He said, and you can can restore
+to an intermediate, you know,
+
+d9b68d85-af49-429a-8981-107bc6324e11-1
+00:19:40.928 --> 00:19:44.148
+not not back to the original
+template, actually you don't
+
+d9b68d85-af49-429a-8981-107bc6324e11-2
+00:19:44.148 --> 00:19:47.535
+need to restore it and just
+reload the template doesn't help
+
+d9b68d85-af49-429a-8981-107bc6324e11-3
+00:19:47.535 --> 00:19:50.867
+you much. But if I halfway
+through of of editing the report
+
+d9b68d85-af49-429a-8981-107bc6324e11-4
+00:19:50.867 --> 00:19:53.865
+could say, OK, that's good for
+now you know? And then
+
+d9b68d85-af49-429a-8981-107bc6324e11-5
+00:19:53.865 --> 00:19:57.307
+afterwards maybe I do something
+that I don't like, but I know
+
+d9b68d85-af49-429a-8981-107bc6324e11-6
+00:19:57.307 --> 00:19:59.640
+that I can go back to the to the
+already.
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-0
+00:20:01.120 --> 00:20:04.160
+Somewhat customized version.
+Yeah, absolutely, if it makes
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-1
+00:20:04.160 --> 00:20:07.303
+sense. But no, does that makes
+complete sense. So in in that
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-2
+00:20:07.303 --> 00:20:10.652
+situation, you'd basically just
+want to save that report because
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-3
+00:20:10.652 --> 00:20:13.950
+once you've saved that report,
+you could go back into it and it
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-4
+00:20:13.950 --> 00:20:16.732
+will be the exact same,
+absolutely. So that's I think
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-5
+00:20:16.732 --> 00:20:19.927
+what you're referring to. Is
+there anything else with regards
+
+c016ac9c-94b9-4e0f-ba08-f35607916fb7-6
+00:20:19.927 --> 00:20:22.710
+to, sorry, I'm just trying to
+export it, having some.
+
+8d37dfc3-ac19-431c-a5d6-2fc316a4c602-0
+00:20:24.320 --> 00:20:26.610
+Spontaneous errors at the
+minute. Let's just see if I
+
+8d37dfc3-ac19-431c-a5d6-2fc316a4c602-1
+00:20:26.610 --> 00:20:28.180
+could go back and export that
+again.
+
+de443916-0016-44f6-a713-d31cc0668043-0
+00:20:47.290 --> 00:20:50.160
+And in case it won't, which
+appears to be the case.
+
+b5db2b38-d69d-421d-9e79-feaf6a6be7c6-0
+00:20:51.990 --> 00:20:52.520
+Why?
+
+b45cdbdb-ecbe-4e7b-ade0-7566fd68911f-0
+00:20:53.360 --> 00:20:57.854
+Remark would be preferably that
+the table would export into
+
+b45cdbdb-ecbe-4e7b-ade0-7566fd68911f-1
+00:20:57.854 --> 00:21:01.900
+Excel in a in a smart way,
+meaning that the headline.
+
+c7cc3d8b-6da5-4f7b-9668-f5c8d3609c8e-0
+00:21:03.100 --> 00:21:05.950
+The header is really also the
+header in the Excel sheet.
+
+c0b7f874-c652-4cc6-ad49-cb0a1f9541df-0
+00:21:06.810 --> 00:21:10.774
+So not uh, average report
+extracted on that day and all
+
+c0b7f874-c652-4cc6-ad49-cb0a1f9541df-1
+00:21:10.774 --> 00:21:13.960
+the general information on top
+of the table.
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-0
+00:21:14.650 --> 00:21:18.644
+Because then I have to delete it
+in order to be able to filter in
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-1
+00:21:18.644 --> 00:21:22.456
+Excel. I've got you. That makes
+sense. So you just put that at
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-2
+00:21:22.456 --> 00:21:26.269
+the bottom. If you think, well,
+it makes a lot of sense to see
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-3
+00:21:26.269 --> 00:21:30.082
+when you export it and what you
+export and what. Maybe some of
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-4
+00:21:30.082 --> 00:21:33.955
+the filter settings that you had
+makes sense, but just just not
+
+3296eb01-4217-46bb-a7ea-0a82fac2dac0-5
+00:21:33.955 --> 00:21:35.649
+on top, not above the table.
+
+a886decc-6152-4eee-a3d4-d83b4f1c10bc-0
+00:21:36.370 --> 00:21:39.850
+Which is currently for example
+the case in in when you export a
+
+a886decc-6152-4eee-a3d4-d83b4f1c10bc-1
+00:21:39.850 --> 00:21:40.340
+forecast.
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-0
+00:21:41.770 --> 00:21:45.785
+The you have to. Yeah. All the
+general information and that the
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-1
+00:21:45.785 --> 00:21:49.863
+numbers are in dollars. It's all
+on top, you know, and then I'll
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-2
+00:21:49.863 --> 00:21:53.753
+just leave it on block. And so
+did I get a clean Excel table?
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-3
+00:21:53.753 --> 00:21:57.203
+Yeah. OK. No, I completely
+understand. Can you see the
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-4
+00:21:57.203 --> 00:22:01.156
+export that I've done right now
+seems to be right. Yeah. Yeah.
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-5
+00:22:01.156 --> 00:22:05.171
+Just sorry, I'm just trying to
+expand some of these are just so
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-6
+00:22:05.171 --> 00:22:09.186
+you could see. Does that seem to
+be what you're after? Exactly.
+
+c103e0bd-ac64-4e9d-af4a-8665b7705578-7
+00:22:09.186 --> 00:22:11.319
+Yeah. Yeah, very good. And
+today?
+
+3cc91614-dc72-465d-afb9-c23f6f1add20-0
+00:22:11.390 --> 00:22:15.214
+Just remember that, you know,
+this is still the 4th iteration,
+
+3cc91614-dc72-465d-afb9-c23f6f1add20-1
+00:22:15.214 --> 00:22:19.038
+so we would be sort of hearing
+feedback along the way. Um, But
+
+3cc91614-dc72-465d-afb9-c23f6f1add20-2
+00:22:19.038 --> 00:22:20.919
+that's that's good to know, um.
+
+706554b2-de98-4009-a80b-54bf23fd6e40-0
+00:22:24.490 --> 00:22:28.570
+What do I have at the bottom?
+The general information.
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-0
+00:22:29.970 --> 00:22:33.114
+So at the moment you won't
+always useful to know when you
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-1
+00:22:33.114 --> 00:22:36.531
+extract because after a while
+things might have changed and if
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-2
+00:22:36.531 --> 00:22:40.055
+you don't know from when it is,
+then it's hard to compare. Yeah.
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-3
+00:22:40.055 --> 00:22:43.200
+So at the moment we don't have
+that functionality. That's
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-4
+00:22:43.200 --> 00:22:46.616
+something that we're considering
+on the road map. I can't give
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-5
+00:22:46.616 --> 00:22:50.032
+you an exact date, but that will
+come in a future release. And
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-6
+00:22:50.032 --> 00:22:53.286
+some other providers actually
+what they do, they would give
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-7
+00:22:53.286 --> 00:22:56.864
+you the clean cut table which is
+very good because typically it's
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-8
+00:22:56.864 --> 00:23:00.389
+something that you want to work
+with and you don't need a lot of
+
+2a068066-bf56-49a6-a6fc-62f340cb8987-9
+00:23:00.389 --> 00:23:01.040
+other stuff.
+
+b26b1e30-4ba6-412b-9cdc-47e19577bf2b-0
+00:23:01.120 --> 00:23:03.390
+In the same page.
+
+5146742a-50e3-479e-82da-48fa2c4f1e40-0
+00:23:04.240 --> 00:23:07.159
+But would would create another
+sheet with the general
+
+5146742a-50e3-479e-82da-48fa2c4f1e40-1
+00:23:07.159 --> 00:23:10.240
+information when what was it
+export and what what is it.
+
+5146742a-50e3-479e-82da-48fa2c4f1e40-2
+00:23:10.240 --> 00:23:12.890
+Maybe sometimes you get the the
+filter settings.
+
+6bf233d1-3414-4f9b-82b9-02209b38124d-0
+00:23:13.530 --> 00:23:16.771
+That you applied or the report
+name? That the report template
+
+6bf233d1-3414-4f9b-82b9-02209b38124d-1
+00:23:16.771 --> 00:23:20.118
+name that you used from your own
+reports? Because maybe after a
+
+6bf233d1-3414-4f9b-82b9-02209b38124d-2
+00:23:20.118 --> 00:23:23.098
+year you don't even remember
+which of the templates was,
+
+6bf233d1-3414-4f9b-82b9-02209b38124d-3
+00:23:23.098 --> 00:23:23.360
+yeah?
+
+1722ad85-200f-412c-8357-0aca22931b32-0
+00:23:24.290 --> 00:23:27.141
+No, completely. I completely
+understand what you're saying.
+
+1722ad85-200f-412c-8357-0aca22931b32-1
+00:23:27.141 --> 00:23:29.850
+So basically, um, yeah. So some
+of the, so a lot of that
+
+1722ad85-200f-412c-8357-0aca22931b32-2
+00:23:29.850 --> 00:23:32.892
+functionality we haven't built
+yet. Um. But with regards to the
+
+1722ad85-200f-412c-8357-0aca22931b32-3
+00:23:32.892 --> 00:23:35.696
+way the current platform works
+at the point of when you're
+
+1722ad85-200f-412c-8357-0aca22931b32-4
+00:23:35.696 --> 00:23:38.500
+exporting, you could alter those
+variables, can't you? Um.
+
+32bf2d30-f922-488a-b88f-dd33c6349efb-0
+00:23:39.380 --> 00:23:43.332
+So yeah that the moment what we
+have is the ability just to
+
+32bf2d30-f922-488a-b88f-dd33c6349efb-1
+00:23:43.332 --> 00:23:47.350
+export it as it is and without
+the option to sort of include
+
+32bf2d30-f922-488a-b88f-dd33c6349efb-2
+00:23:47.350 --> 00:23:51.236
+exclude nulls, um, have for
+example data definitions, cell
+
+32bf2d30-f922-488a-b88f-dd33c6349efb-3
+00:23:51.236 --> 00:23:55.188
+comments etcetera. So yeah,
+those options will be coming in
+
+32bf2d30-f922-488a-b88f-dd33c6349efb-4
+00:23:55.188 --> 00:23:55.650
+future.
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-0
+00:23:57.210 --> 00:24:00.895
+And so start, I mean, that's for
+sure the most important part.
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-1
+00:24:00.895 --> 00:24:04.347
+Yeah, absolutely. So, yeah, as
+as we're building it, we're
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-2
+00:24:04.347 --> 00:24:07.974
+going to sort of test along the
+way, uh, conscious that we've
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-3
+00:24:07.974 --> 00:24:11.367
+only actually got 3 minutes
+left. Um, So what I'll do is,
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-4
+00:24:11.367 --> 00:24:14.936
+um, so that's kind of the whole
+create report experience and
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-5
+00:24:14.936 --> 00:24:18.212
+I'll show you the browse
+experience. So first things to
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-6
+00:24:18.212 --> 00:24:21.663
+mention now is some of these
+things are grayed out. That's
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-7
+00:24:21.663 --> 00:24:25.056
+purely because they're not
+active at the minute. So right
+
+f02d0c28-f524-41ee-a536-427ac4afdab4-8
+00:24:25.056 --> 00:24:27.279
+now we only have drugs and
+companies.
+
+3ba5ebb7-3e07-48d1-bb6a-9b9125bd9d57-0
+00:24:27.500 --> 00:24:30.662
+So this is something that you've
+not seen. This is something that
+
+3ba5ebb7-3e07-48d1-bb6a-9b9125bd9d57-1
+00:24:30.662 --> 00:24:33.010
+we've done in the last couple of
+iterations. Um.
+
+d430e2c7-7b56-4562-9d27-eb6bd54185e0-0
+00:24:33.700 --> 00:24:36.956
+This is essentially the browse
+experience, so this is the
+
+d430e2c7-7b56-4562-9d27-eb6bd54185e0-1
+00:24:36.956 --> 00:24:40.325
+overview page for drugs. Now the
+idea for this page is that
+
+d430e2c7-7b56-4562-9d27-eb6bd54185e0-2
+00:24:40.325 --> 00:24:43.020
+you'll have some calculated
+metrics at the top.
+
+007b8945-2eb8-4870-a365-909e27fbaa62-0
+00:24:43.710 --> 00:24:47.270
+Um, you'll have a section for
+any relevant events.
+
+154c0f83-2998-4936-a1c3-3b8c61f7b810-0
+00:24:48.180 --> 00:24:51.056
+And then you've got a section
+here for your top three, so
+
+154c0f83-2998-4936-a1c3-3b8c61f7b810-1
+00:24:51.056 --> 00:24:54.231
+you've got your top three MOAS,
+your indications at Level 3 and
+
+154c0f83-2998-4936-a1c3-3b8c61f7b810-2
+00:24:54.231 --> 00:24:55.620
+your therapeutic categories.
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-0
+00:24:56.270 --> 00:25:00.319
+And then you have your overview
+drugs table at the bottom. So
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-1
+00:25:00.319 --> 00:25:04.173
+these columns are already sort
+of, um, altered for a drugs
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-2
+00:25:04.173 --> 00:25:08.288
+overview sort of landscape. And
+this contains the same sort of
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-3
+00:25:08.288 --> 00:25:12.468
+data table functionalities. You
+could manage your columns, add,
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-4
+00:25:12.468 --> 00:25:16.387
+remove, export, save. And the
+point is, is that when you're
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-5
+00:25:16.387 --> 00:25:19.980
+filtering these calculated
+metrics that the data table
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-6
+00:25:19.980 --> 00:25:23.050
+below will also filter
+accordingly. That's not
+
+a162b86e-7d6c-45a9-a48c-03a8c1ab22bc-7
+00:25:23.050 --> 00:25:26.120
+something that we've built at
+the moment, but.
+
+0c46c437-4d72-418a-a970-1c504490e8a8-0
+00:25:26.270 --> 00:25:30.147
+Something that's going to come
+in the future. Yeah. So do you
+
+0c46c437-4d72-418a-a970-1c504490e8a8-1
+00:25:30.147 --> 00:25:34.087
+have, um, so sorry, actually let
+me just before I ask for your
+
+0c46c437-4d72-418a-a970-1c504490e8a8-2
+00:25:34.087 --> 00:25:37.589
+feedback. And we've also
+implemented a new thing called
+
+0c46c437-4d72-418a-a970-1c504490e8a8-3
+00:25:37.589 --> 00:25:41.653
+slices. So at the moment we only
+have sales and indications, but
+
+0c46c437-4d72-418a-a970-1c504490e8a8-4
+00:25:41.653 --> 00:25:45.593
+the idea is that it's, it's a
+curated view of that data. So if
+
+0c46c437-4d72-418a-a970-1c504490e8a8-5
+00:25:45.593 --> 00:25:49.158
+you go into indications that
+you'll see your columns for
+
+0c46c437-4d72-418a-a970-1c504490e8a8-6
+00:25:49.158 --> 00:25:52.847
+indications will be slightly
+different to your columns for
+
+0c46c437-4d72-418a-a970-1c504490e8a8-7
+00:25:52.847 --> 00:25:56.600
+sales, but it's the ability for
+you to sort of get a quick.
+
+54f7678d-283b-4fe4-9054-49181f4a0d0c-0
+00:25:56.890 --> 00:25:58.650
+Landscape view of that data.
+
+d6f07634-1420-4365-86f3-7737c1e04c37-0
+00:25:59.470 --> 00:26:03.014
+Yeah. So if you look into sales,
+you'll see what would be
+
+d6f07634-1420-4365-86f3-7737c1e04c37-1
+00:26:03.014 --> 00:26:06.070
+miscellaneous cancer versus
+solid tumors, I mean.
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-0
+00:26:06.820 --> 00:26:10.353
+You have solid and you have
+hematological tumors. And what
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-1
+00:26:10.353 --> 00:26:14.246
+is miscellaneous? Good question.
+I would need to get back to you
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-2
+00:26:14.246 --> 00:26:18.138
+on that one anyway. In general,
+if possible under there might be
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-3
+00:26:18.138 --> 00:26:22.031
+good good uses for the word, but
+in general I hate miscellaneous
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-4
+00:26:22.031 --> 00:26:25.624
+because then it means I don't
+know what I'm looking at. OK.
+
+fe73efa4-6900-45f8-9042-4c1e6d771a7a-5
+00:26:25.624 --> 00:26:28.080
+No, that's I agree with you on
+that one.
+
+94c5fdd4-b370-4dc3-95d6-7232984f62a1-0
+00:26:29.310 --> 00:26:32.796
+Terms in terms of this sort of
+index page, this is what we're
+
+94c5fdd4-b370-4dc3-95d6-7232984f62a1-1
+00:26:32.796 --> 00:26:36.395
+calling an overview index page.
+Do you have any feedback on any
+
+94c5fdd4-b370-4dc3-95d6-7232984f62a1-2
+00:26:36.395 --> 00:26:39.770
+of this so you've got your
+metrics, customizability, so for
+
+94c5fdd4-b370-4dc3-95d6-7232984f62a1-3
+00:26:39.770 --> 00:26:40.220
+example.
+
+a925697f-2e27-4557-acda-7594b4187daf-0
+00:26:41.710 --> 00:26:46.234
+What is it that I'm looking at,
+13 billion in 2021? It's
+
+a925697f-2e27-4557-acda-7594b4187daf-1
+00:26:46.234 --> 00:26:48.140
+worldwide sales of what?
+
+11a5554d-8965-4ecb-a2bb-c5f16847dd42-0
+00:26:49.430 --> 00:26:53.251
+Um, so at the moment I could be
+wrong, but I think that's drugs
+
+11a5554d-8965-4ecb-a2bb-c5f16847dd42-1
+00:26:53.251 --> 00:26:53.670
+across.
+
+fdbb309f-6ddf-4ca6-ba0b-adc4d4144774-0
+00:26:54.500 --> 00:26:58.850
+It's all across the world, so
+it's not for a specific drug. Is
+
+fdbb309f-6ddf-4ca6-ba0b-adc4d4144774-1
+00:26:58.850 --> 00:27:02.510
+that is that something that
+you'd want to customize?
+
+790237a3-4343-4668-abc2-a596f43ec872-0
+00:27:03.480 --> 00:27:08.341
+Yeah. So, so for example, so, so
+if I understand it, whether the
+
+790237a3-4343-4668-abc2-a596f43ec872-1
+00:27:08.341 --> 00:27:12.604
+current data is correct or not,
+as I understand it, it's
+
+790237a3-4343-4668-abc2-a596f43ec872-2
+00:27:12.604 --> 00:27:16.942
+basically a dashboard which
+informs you about the current
+
+790237a3-4343-4668-abc2-a596f43ec872-3
+00:27:16.942 --> 00:27:21.505
+state of global, the current
+globe, some current global drug
+
+790237a3-4343-4668-abc2-a596f43ec872-4
+00:27:21.505 --> 00:27:23.450
+information and it's fine.
+
+b1c23b7a-ed61-4c3d-8ac1-cbee22e26429-0
+00:27:24.780 --> 00:27:28.743
+Because sometimes it might be
+exactly what I'm looking for,
+
+b1c23b7a-ed61-4c3d-8ac1-cbee22e26429-1
+00:27:28.743 --> 00:27:31.980
+but uh, would be great again if
+I could then um.
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-0
+00:27:33.660 --> 00:27:37.418
+The selected technology, since
+I'm typically only interested in
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-1
+00:27:37.418 --> 00:27:40.706
+small molecules, so maybe I
+would like to see what what
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-2
+00:27:40.706 --> 00:27:44.171
+we're only the small molecule
+global sales. Fine. So you'd
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-3
+00:27:44.171 --> 00:27:47.518
+wanna apply a filter to face
+phase one, phase two, phase
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-4
+00:27:47.518 --> 00:27:51.159
+three. Of course I want to see
+how much of my technologies in
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-5
+00:27:51.159 --> 00:27:54.800
+the pipeline and which phase and
+not all the other stuff that
+
+81378c8a-6bd5-4ebf-9fe9-3d7d82149b20-6
+00:27:54.800 --> 00:27:56.209
+that that is not not my.
+
+118ba5d8-945a-4424-acf9-2794ecbb7b4f-0
+00:27:58.070 --> 00:27:58.680
+My business.
+
+755cd088-6e9b-40c4-b4d2-2be286dc2569-0
+00:27:59.540 --> 00:28:03.488
+That makes sense. So you want to
+apply filters to those metrics?
+
+755cd088-6e9b-40c4-b4d2-2be286dc2569-1
+00:28:03.488 --> 00:28:06.891
+Um, in order to sort of
+preferably, yeah, well, and not
+
+755cd088-6e9b-40c4-b4d2-2be286dc2569-2
+00:28:06.891 --> 00:28:10.779
+only filters, but also would be
+great if I could choose to make
+
+755cd088-6e9b-40c4-b4d2-2be286dc2569-3
+00:28:10.779 --> 00:28:14.060
+it the default that I don't have
+to do it every time.
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-0
+00:28:14.870 --> 00:28:18.813
+OK. Fine to choose this, that's
+a that's good feedback actually.
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-1
+00:28:18.813 --> 00:28:22.636
+Yeah. And like I said before I
+would like to wherever it makes
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-2
+00:28:22.636 --> 00:28:26.216
+sense. I mean you're smart
+people you'll find out wherever
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-3
+00:28:26.216 --> 00:28:29.492
+it makes sense make it
+customizable so that so so for
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-4
+00:28:29.492 --> 00:28:33.497
+example in the current view when
+I look look up a forecast for an
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-5
+00:28:33.497 --> 00:28:37.380
+indication then I get a company
+name, I get the drugs name, the
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-6
+00:28:37.380 --> 00:28:40.960
+brand name, I get of course all
+the forecast years but the
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-7
+00:28:40.960 --> 00:28:44.297
+revenues and all that and
+certain other uh data points
+
+55f5cf83-fae8-46a3-8de0-186aa96ce35f-8
+00:28:44.297 --> 00:28:44.540
+but.
+
+a5aa33c9-75b3-4fbc-b23a-0893a0333e75-0
+00:28:44.790 --> 00:28:48.450
+For example, what what I do not
+get from evaluate uh as a
+
+a5aa33c9-75b3-4fbc-b23a-0893a0333e75-1
+00:28:48.450 --> 00:28:50.660
+default. It's a generic drug
+name.
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-0
+00:28:51.660 --> 00:28:56.233
+And I live mainly in a generic
+drug name world. Uh doesn't mean
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-1
+00:28:56.233 --> 00:29:00.592
+that the the brand names are not
+important to me, but I also
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-2
+00:29:00.592 --> 00:29:04.808
+always in addition need the
+generic name. OK, so so when I
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-3
+00:29:04.808 --> 00:29:09.310
+look, when I type in the name of
+a drug and I get the forecast
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-4
+00:29:09.310 --> 00:29:13.669
+number then then I would like to
+be able to to arrange or or
+
+e708cac9-4b6e-43c5-913f-a39cee5ca74f-5
+00:29:13.669 --> 00:29:14.170
+define.
+
+d7a8dd42-477b-4110-89e0-99451c5ef844-0
+00:29:15.000 --> 00:29:19.844
+What are the standard, uh, data
+points that this table will show
+
+d7a8dd42-477b-4110-89e0-99451c5ef844-1
+00:29:19.844 --> 00:29:23.050
+me every time when I go into it,
+you know?
+
+f927adf4-fdd4-4675-98ab-9623d85ef014-0
+00:29:24.000 --> 00:29:27.610
+Fine, that makes sense. Um, I'll
+take a note of that as well.
+
+74e0de80-0267-40af-9239-947b1bf7b04b-0
+00:29:28.830 --> 00:29:32.379
+Are you OK for another couple of
+minutes? Would that be OK or?
+
+74e0de80-0267-40af-9239-947b1bf7b04b-1
+00:29:32.379 --> 00:29:35.140
+And by the way, man, I think
+it's really useful.
+
+3ce985d7-610e-41f3-b8f2-b667a206cf1d-0
+00:29:37.060 --> 00:29:40.346
+I would have no problem with the
+idea that we haven't set up
+
+3ce985d7-610e-41f3-b8f2-b667a206cf1d-1
+00:29:40.346 --> 00:29:43.687
+another call if it makes sense
+for you. Oh, brilliant. That's
+
+3ce985d7-610e-41f3-b8f2-b667a206cf1d-2
+00:29:43.687 --> 00:29:47.135
+that's really good, actually. So
+let me make a note of that and
+
+3ce985d7-610e-41f3-b8f2-b667a206cf1d-3
+00:29:47.135 --> 00:29:47.890
+happy to do a.
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-0
+00:29:53.140 --> 00:29:56.022
+Yeah. So what I'll do is I'll
+once we've had this call, I'll
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-1
+00:29:56.022 --> 00:29:58.856
+obviously share the feedback
+with the rest of the team. And
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-2
+00:29:58.856 --> 00:30:01.691
+then if anyone with some more
+product knowledge for example
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-3
+00:30:01.691 --> 00:30:04.526
+wants to do a bit of a deeper
+dive and get your thoughts on
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-4
+00:30:04.526 --> 00:30:07.314
+something more specific than
+yeah that would be brilliant.
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-5
+00:30:07.314 --> 00:30:09.960
+Thank you for that. That's
+appreciated. Um, this is the
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-6
+00:30:09.960 --> 00:30:13.078
+individual so drug item page, so
+we saw an overview. So what I'll
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-7
+00:30:13.078 --> 00:30:16.149
+do is let me just show you how I
+got here. If I then Scroll down
+
+e8abd236-08a1-4ee5-9004-e5f7ecd898be-8
+00:30:16.149 --> 00:30:18.890
+on here, you've got all of these
+generic names if I then.
+
+ae5ba116-c571-4fec-a750-b2f11ff9f80d-0
+00:30:18.960 --> 00:30:21.700
+Click into each one, um again.
+
+97152a38-771c-44ce-a808-f5e51cc3bed3-0
+00:30:22.350 --> 00:30:26.043
+We've got some information about
+that. So the primary branded
+
+97152a38-771c-44ce-a808-f5e51cc3bed3-1
+00:30:26.043 --> 00:30:29.558
+name, status indication, launch
+indication, companies with
+
+97152a38-771c-44ce-a808-f5e51cc3bed3-2
+00:30:29.558 --> 00:30:33.371
+sales, some metrics and then a
+data table is there. Do you have
+
+97152a38-771c-44ce-a808-f5e51cc3bed3-3
+00:30:33.371 --> 00:30:34.920
+any feedback on that page?
+
+06fb4be9-259e-4ec9-ae19-282c2c687601-0
+00:30:42.260 --> 00:30:44.040
+Looks good on a first glance.
+
+7cccf87c-5b7d-4d56-97d1-e9c179aa8386-0
+00:30:46.040 --> 00:30:47.540
+Is there any um?
+
+29b26764-8769-47d9-b48a-7adcd8e3db43-0
+00:30:49.210 --> 00:30:51.931
+Any specific information that
+you would want there or you
+
+29b26764-8769-47d9-b48a-7adcd8e3db43-1
+00:30:51.931 --> 00:30:52.870
+wouldn't want there?
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-0
+00:30:54.210 --> 00:30:57.812
+Yeah, well I thought, well there
+there's a possibility to manage
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-1
+00:30:57.812 --> 00:31:01.138
+columns. To question is can I
+own and manage, can I own and
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-2
+00:31:01.138 --> 00:31:04.685
+manage to columns so that they
+are or can I choose to see other
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-3
+00:31:04.685 --> 00:31:08.177
+exactly fine. And if that then
+would freeze. If I can say I'll
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-4
+00:31:08.177 --> 00:31:11.668
+look into liquids. And I managed
+to columns because very often
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-5
+00:31:11.668 --> 00:31:15.105
+it's really the case that I'm
+after the the same kind of data
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-6
+00:31:15.105 --> 00:31:18.486
+for different products. If I
+could manage the columns now to
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-7
+00:31:18.486 --> 00:31:21.867
+my likes and then freeze that
+and say in the next time I log
+
+b28e4142-deb1-494e-9636-b1cce6cbb1ad-8
+00:31:21.867 --> 00:31:23.529
+into another drug, that's all.
+
+79b9fe99-d0ac-4170-af19-9ade4f2726c8-0
+00:31:24.150 --> 00:31:28.043
+But then also how how that table
+pops up then? Perfect. Ah, OK,
+
+79b9fe99-d0ac-4170-af19-9ade4f2726c8-1
+00:31:28.043 --> 00:31:31.815
+fine, that's really interesting.
+So you actually want to save
+
+79b9fe99-d0ac-4170-af19-9ade4f2726c8-2
+00:31:31.815 --> 00:31:32.120
+your.
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-0
+00:31:33.190 --> 00:31:37.270
+Reference columns, yeah, OK. So
+that's like because you know I
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-1
+00:31:37.270 --> 00:31:40.768
+guess and I would assume
+probably also applies to the
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-2
+00:31:40.768 --> 00:31:45.042
+former, to your former customers
+typically it's it's very similar
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-3
+00:31:45.042 --> 00:31:48.864
+information that you want to see
+every time that you every
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-4
+00:31:48.864 --> 00:31:52.944
+company has their view on the
+market and competitive drugs and
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-5
+00:31:52.944 --> 00:31:56.636
+and and probably you always
+wanna have that view because
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-6
+00:31:56.636 --> 00:32:00.263
+these are the metrics that you
+think are meaningful for
+
+a48098de-7a1e-4cfb-8c9b-532c5b61b0ba-7
+00:32:00.263 --> 00:32:02.790
+whatever it is you want to
+accomplish.
+
+e262d06e-03f5-4844-a378-041bb0a1857c-0
+00:32:03.520 --> 00:32:07.447
+And of course there there might
+be changes and not a problem
+
+e262d06e-03f5-4844-a378-041bb0a1857c-1
+00:32:07.447 --> 00:32:10.860
+because, um, obviously I can can
+manage the columns.
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-0
+00:32:11.510 --> 00:32:15.553
+But at least if there's one view
+which I need most often, then it
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-1
+00:32:15.553 --> 00:32:19.413
+helps me a great deal when I can
+blindly rely on I I look up a
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-2
+00:32:19.413 --> 00:32:23.212
+product and wow, they're already
+is my standard view with the
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-3
+00:32:23.212 --> 00:32:26.581
+most often used data.
+Absolutely. So at the moment you
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-4
+00:32:26.581 --> 00:32:30.319
+could do that via save report.
+So again, if you were to save
+
+4e95d2f8-4c72-4d93-ae42-9c5656b6c9e5-5
+00:32:30.319 --> 00:32:33.750
+that report, it would save that
+view exactly how it is.
+
+8c591e29-bb7d-482e-a98d-750dcb0f953b-0
+00:32:34.620 --> 00:32:37.796
+Yeah, but then then how, how
+when I open it up, how how would
+
+8c591e29-bb7d-482e-a98d-750dcb0f953b-1
+00:32:37.796 --> 00:32:39.180
+I change the the drug name?
+
+aaaecec3-eaf7-4b5e-8cc6-d3d6beddecfd-0
+00:32:40.370 --> 00:32:43.812
+I'm gonna have to go into the
+report and change that. Yeah.
+
+aaaecec3-eaf7-4b5e-8cc6-d3d6beddecfd-1
+00:32:43.812 --> 00:32:47.426
+Well then you have to edit the
+report. Possible, you know, and
+
+aaaecec3-eaf7-4b5e-8cc6-d3d6beddecfd-2
+00:32:47.426 --> 00:32:51.098
+and typically that's maybe how I
+would do it now. But of course
+
+aaaecec3-eaf7-4b5e-8cc6-d3d6beddecfd-3
+00:32:51.098 --> 00:32:52.590
+it's easier if you if you.
+
+01929fcd-48b9-436f-9c48-25c6c925ab1b-0
+00:32:53.300 --> 00:32:57.030
+Because like I said initially,
+most of the times I just had in
+
+01929fcd-48b9-436f-9c48-25c6c925ab1b-1
+00:32:57.030 --> 00:33:00.582
+the the search term in the
+search and just use the same and
+
+01929fcd-48b9-436f-9c48-25c6c925ab1b-2
+00:33:00.582 --> 00:33:04.372
+then already the the the landing
+page where it brings me to has
+
+01929fcd-48b9-436f-9c48-25c6c925ab1b-3
+00:33:04.372 --> 00:33:07.806
+to write write data in in
+individualized as I need it and
+
+01929fcd-48b9-436f-9c48-25c6c925ab1b-4
+00:33:07.806 --> 00:33:09.050
+I'm a very happy man.
+
+f6bc3fbb-f27a-4ffa-93db-9e746987943c-0
+00:33:09.950 --> 00:33:13.520
+OK, that's that's a good point.
+Um, fine. So I think that it's
+
+f6bc3fbb-f27a-4ffa-93db-9e746987943c-1
+00:33:13.520 --> 00:33:17.090
+pretty much most of the things
+that I wanted to show. In fact,
+
+f6bc3fbb-f27a-4ffa-93db-9e746987943c-2
+00:33:17.090 --> 00:33:19.640
+all of the things that I wanted
+to show you.
+
+96cf748b-34cb-444d-a592-309fca661d2a-0
+00:33:21.260 --> 00:33:26.064
+I did have a another question
+actually with regards to some of
+
+96cf748b-34cb-444d-a592-309fca661d2a-1
+00:33:26.064 --> 00:33:29.420
+the data. Do you do you
+typically use a um?
+
+4c10f91c-14ce-4f6e-92fe-6a92233d8547-0
+00:33:30.980 --> 00:33:34.079
+A mobile phone to view any data
+like this? Or do you
+
+4c10f91c-14ce-4f6e-92fe-6a92233d8547-1
+00:33:34.079 --> 00:33:37.764
+predominantly use a lot? OK, but
+maybe that's just because I'm
+
+4c10f91c-14ce-4f6e-92fe-6a92233d8547-2
+00:33:37.764 --> 00:33:39.870
+too old. Maybe it's time for me
+to.
+
+e8e36c5e-c8d7-4fea-bb86-73d69422471c-0
+00:33:41.200 --> 00:33:45.088
+Be replaced? Who knows? You're
+never too old. Never too old.
+
+e8e36c5e-c8d7-4fea-bb86-73d69422471c-1
+00:33:45.088 --> 00:33:45.280
+Um.
+
+efe0b623-fb7f-4da7-8c97-552aea6983f9-0
+00:33:47.100 --> 00:33:49.710
+Uh, so do you only use a laptop?
+Yes.
+
+70b4d9fe-2606-49ce-9bca-5b4675dec6f3-0
+00:33:50.440 --> 00:33:54.653
+You can use laptop. Cool. And
+the only other thing I wanted to
+
+70b4d9fe-2606-49ce-9bca-5b4675dec6f3-1
+00:33:54.653 --> 00:33:58.666
+show you actually just before we
+we part ways, is I'll just
+
+70b4d9fe-2606-49ce-9bca-5b4675dec6f3-2
+00:33:58.666 --> 00:33:59.870
+reshare my screen.
+
+9dfe3477-6ad1-4d6a-a8dc-06561c3f2ab1-0
+00:34:02.510 --> 00:34:07.770
+Is some of the sales data, just
+wanted to get your views on it.
+
+340e01f0-1422-494d-82d9-0d0e0aca02be-0
+00:34:09.140 --> 00:34:10.490
+So we're just going to sales.
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-0
+00:34:12.020 --> 00:34:15.116
+So you see some of these. So for
+example if I'm just going to
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-1
+00:34:15.116 --> 00:34:17.814
+zoom in a little bit here, so
+you see you've got some
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-2
+00:34:17.814 --> 00:34:20.661
+information in the sales column,
+you see the the the the
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-3
+00:34:20.661 --> 00:34:23.857
+information is quite small, it's
+to the left hand side, but you
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-4
+00:34:23.857 --> 00:34:27.104
+can see the cell is quite large.
+Well that would that affect you
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-5
+00:34:27.104 --> 00:34:30.351
+in any way? Would you want that
+cell to be smaller? Is the width
+
+3a4c6def-c87f-4384-8e64-89af9d1ebe96-6
+00:34:30.351 --> 00:34:31.400
+of the cell an issue?
+
+7343f23e-0daf-490c-9bba-1557e42056b9-0
+00:34:32.960 --> 00:34:35.610
+It it is, uh, when?
+
+6e27f41c-a282-402e-ba3c-5d6f2ef91b6b-0
+00:34:36.950 --> 00:34:38.170
+It's uh.
+
+d63bb19d-9123-4a1b-8665-ed19aeb05c30-0
+00:34:39.260 --> 00:34:44.991
+Needless wasted space, yeah. And
+I could see more years on on one
+
+d63bb19d-9123-4a1b-8665-ed19aeb05c30-1
+00:34:44.991 --> 00:34:49.680
+screen. Uh, without scrolling.
+And of course I would.
+
+dc26965a-6800-4853-9ec4-d7bd64aa6eea-0
+00:34:50.350 --> 00:34:53.530
+I would pack as much as possible
+into.
+
+b60a74e3-46aa-4e37-98d0-2d1118fd534b-0
+00:34:55.050 --> 00:34:55.960
+Into one screen.
+
+de1ac032-0d45-43c8-ac80-4136f998bdbc-0
+00:34:56.620 --> 00:35:00.601
+So if there's not other data in
+in in table which requires more
+
+de1ac032-0d45-43c8-ac80-4136f998bdbc-1
+00:35:00.601 --> 00:35:04.271
+if there's no down downwards. If
+there's not downwards any
+
+de1ac032-0d45-43c8-ac80-4136f998bdbc-2
+00:35:04.271 --> 00:35:08.191
+entries which will provide more
+space and that's why the cells
+
+de1ac032-0d45-43c8-ac80-4136f998bdbc-3
+00:35:08.191 --> 00:35:12.048
+are have that with with that
+they have then no then of course
+
+de1ac032-0d45-43c8-ac80-4136f998bdbc-4
+00:35:12.048 --> 00:35:13.229
+shrink it together.
+
+fd1fc89d-2769-4a1d-bc0d-6825136a94ef-0
+00:35:17.110 --> 00:35:21.159
+OK, cool. That way. That's
+pretty much it. So first and
+
+fd1fc89d-2769-4a1d-bc0d-6825136a94ef-1
+00:35:21.159 --> 00:35:22.100
+foremost, um.
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-0
+00:35:23.560 --> 00:35:26.142
+Apologies that we've gone
+slightly over. I think we
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-1
+00:35:26.142 --> 00:35:29.271
+started about 7-8 minutes late
+and I appreciate you mentioning
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-2
+00:35:29.271 --> 00:35:32.500
+that you're happy to do a follow
+up if necessary and that's been
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-3
+00:35:32.500 --> 00:35:35.530
+really helpful for me. So I've,
+I've taken lots of notes and
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-4
+00:35:35.530 --> 00:35:38.659
+I've also recorded this session
+as well, so if I want to refer
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-5
+00:35:38.659 --> 00:35:41.639
+back to it, I can. The only
+other couple of things I wanted
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-6
+00:35:41.639 --> 00:35:44.917
+to mention just before you do go
+is you've actually got access to
+
+8fd6a97e-d078-4876-b31b-b9b3c2f10f3e-7
+00:35:44.917 --> 00:35:46.009
+the platform yourself.
+
+dcbefff2-1456-414d-a4ec-2f838a585299-0
+00:35:46.940 --> 00:35:48.290
+To to the sandbox version.
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-0
+00:35:49.040 --> 00:35:53.174
+Yeah, so if you if you currently
+go onto the into our website,
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-1
+00:35:53.174 --> 00:35:57.045
+the current live application,
+what you'll see on the right
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-2
+00:35:57.045 --> 00:36:00.917
+hand side of the search bar
+you'll see a blue button. Yeah
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-3
+00:36:00.917 --> 00:36:05.051
+that's it. So if you follow that
+you've actually got access to
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-4
+00:36:05.051 --> 00:36:09.119
+the platform. So what I would
+suggest you do is if you have a
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-5
+00:36:09.119 --> 00:36:13.450
+few minutes then click the wrong
+with it and feedback absolutely.
+
+3bc4fbaa-c00f-40c3-a6e7-b76e856cb17c-6
+00:36:13.450 --> 00:36:17.060
+OK. So do you know the are you
+on there at the minute?
+
+4dc718e0-569a-4ffd-ad2c-ebe823dc0596-0
+00:36:18.330 --> 00:36:22.133
+Now you see the purple. You see
+the little purple sort of paper
+
+4dc718e0-569a-4ffd-ad2c-ebe823dc0596-1
+00:36:22.133 --> 00:36:23.500
+plane icon bottom left.
+
+a484bfaa-b83d-446b-8c29-a26e4650513f-0
+00:36:27.610 --> 00:36:30.932
+No, no, no. I'm currently
+accessing the is there, yeah, in
+
+a484bfaa-b83d-446b-8c29-a26e4650513f-1
+00:36:30.932 --> 00:36:31.890
+the new platform.
+
+72849a7a-5eae-44bd-b4b4-d45e3a82cff8-0
+00:36:32.590 --> 00:36:36.064
+Yes, I see it. Yeah. So if you
+could do, you could just submit
+
+72849a7a-5eae-44bd-b4b4-d45e3a82cff8-1
+00:36:36.064 --> 00:36:39.429
+feedback through that. OK, cool.
+Is that right? One, there's
+
+72849a7a-5eae-44bd-b4b4-d45e3a82cff8-2
+00:36:39.429 --> 00:36:41.360
+another one. There is another
+one.
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-0
+00:36:42.270 --> 00:36:46.242
+Now that we have that in the
+better version, um other other
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-1
+00:36:46.242 --> 00:36:49.949
+database providers would they
+offer as asked analyst or
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-2
+00:36:49.949 --> 00:36:53.921
+whatever functionality. I also
+suggested that time and time
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-3
+00:36:53.921 --> 00:36:57.827
+again because there's I could
+have told you so many things
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-4
+00:36:57.827 --> 00:37:02.130
+that don't work well within the
+platform over the years. But the
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-5
+00:37:02.130 --> 00:37:06.036
+problem is there's not an easy
+way that I press button say
+
+a8c49b50-2c43-4ac4-8436-a7569032423b-6
+00:37:06.036 --> 00:37:07.890
+that's the problem and just.
+
+d08cb2c1-dfff-4d14-8da5-a4964e133639-0
+00:37:08.550 --> 00:37:12.399
+You know, go my way and find
+another solution. And if I
+
+d08cb2c1-dfff-4d14-8da5-a4964e133639-1
+00:37:12.399 --> 00:37:16.799
+always have to write really an
+e-mail, open up the e-mail, look
+
+d08cb2c1-dfff-4d14-8da5-a4964e133639-2
+00:37:16.799 --> 00:37:18.930
+who you reach out to my, to my.
+
+ddeec60b-cae4-403a-a790-a69a9288233b-0
+00:37:20.730 --> 00:37:25.395
+To the to the person who whoever
+is taking care of our account.
+
+ddeec60b-cae4-403a-a790-a69a9288233b-1
+00:37:25.395 --> 00:37:30.061
+Yeah many times I just don't do
+that if I have a lot of work OK
+
+ddeec60b-cae4-403a-a790-a69a9288233b-2
+00:37:30.061 --> 00:37:34.727
+especially what would be needed
+is what some database providers
+
+ddeec60b-cae4-403a-a790-a69a9288233b-3
+00:37:34.727 --> 00:37:39.247
+have and it's excellent feature
+when you when you hit the ask
+
+ddeec60b-cae4-403a-a790-a69a9288233b-4
+00:37:39.247 --> 00:37:43.694
+analyst button the database
+recognizes where you are in the,
+
+ddeec60b-cae4-403a-a790-a69a9288233b-5
+00:37:43.694 --> 00:37:48.141
+in the in the platform. So for
+example we just looked at the
+
+ddeec60b-cae4-403a-a790-a69a9288233b-6
+00:37:48.141 --> 00:37:50.620
+product pixel ban link with
+yeah.
+
+fca36e1f-a873-4a09-9e74-9d0849dce5f4-0
+00:37:50.700 --> 00:37:52.960
+If I would press to ask analyst
+button there.
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-0
+00:37:53.690 --> 00:37:56.863
+The information would be
+captured that I'm what I'm
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-1
+00:37:56.863 --> 00:38:00.768
+currently seeing, that's that's
+currently the product page that
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-2
+00:38:00.768 --> 00:38:04.491
+I'm into. And then I don't have
+to write a whole long story,
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-3
+00:38:04.491 --> 00:38:08.335
+which costs me a lot of time.
+Yeah, what I was doing and where
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-4
+00:38:08.335 --> 00:38:11.875
+I'm stuck. But then I can
+directly refer to the page that
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-5
+00:38:11.875 --> 00:38:15.597
+I'm currently having in front of
+me and that's a very useful
+
+846ecc8f-306c-4360-9dd7-b52c0a561df1-6
+00:38:15.597 --> 00:38:16.939
+service and then plus.
+
+18816a0c-cc73-4a64-bb95-768731d3382c-0
+00:38:18.520 --> 00:38:21.746
+One of the providers is also
+lightning fast and and and the
+
+18816a0c-cc73-4a64-bb95-768731d3382c-1
+00:38:21.746 --> 00:38:25.079
+people are very helpful. And I
+mean I would understand if you
+
+18816a0c-cc73-4a64-bb95-768731d3382c-2
+00:38:25.079 --> 00:38:28.467
+are a little bit concerned that
+too many people use it and for
+
+18816a0c-cc73-4a64-bb95-768731d3382c-3
+00:38:28.467 --> 00:38:31.693
+rubbish requests and and and and
+you're flooded with stupid
+
+18816a0c-cc73-4a64-bb95-768731d3382c-4
+00:38:31.693 --> 00:38:34.812
+questions that of course I
+cannot take responsibility for
+
+18816a0c-cc73-4a64-bb95-768731d3382c-5
+00:38:34.812 --> 00:38:38.199
+that. I hope that would not be
+the case. Typically I don't bug
+
+18816a0c-cc73-4a64-bb95-768731d3382c-6
+00:38:38.199 --> 00:38:41.049
+people with that. I would only
+use it in a hopefully
+
+18816a0c-cc73-4a64-bb95-768731d3382c-7
+00:38:41.049 --> 00:38:41.909
+responsible way.
+
+bf119685-16c3-49c4-9abb-1778af6888ac-0
+00:38:42.700 --> 00:38:46.136
+No, absolutely. I completely see
+what you're saying. It's very
+
+bf119685-16c3-49c4-9abb-1778af6888ac-1
+00:38:46.136 --> 00:38:49.300
+valid. It's, it's actually a
+smart, smart thing for it to
+
+bf119685-16c3-49c4-9abb-1778af6888ac-2
+00:38:49.300 --> 00:38:52.409
+capture where you are in the
+website. Um, ours is not as
+
+bf119685-16c3-49c4-9abb-1778af6888ac-3
+00:38:52.409 --> 00:38:55.572
+smart, as, as smart as that just
+yet. But on the existing
+
+bf119685-16c3-49c4-9abb-1778af6888ac-4
+00:38:55.572 --> 00:38:59.118
+platform as well, we do have the
+same feedback icon. It's at the
+
+bf119685-16c3-49c4-9abb-1778af6888ac-5
+00:38:59.118 --> 00:39:02.336
+bottom right of the website and
+so it is a bit more of a a
+
+bf119685-16c3-49c4-9abb-1778af6888ac-6
+00:39:02.336 --> 00:39:05.936
+shorter form. So there's there's
+no like big areas where you need
+
+bf119685-16c3-49c4-9abb-1778af6888ac-7
+00:39:05.936 --> 00:39:09.154
+to give feedback, um, but yeah,
+you can use that to submit
+
+bf119685-16c3-49c4-9abb-1778af6888ac-8
+00:39:09.154 --> 00:39:12.209
+feedback to us as well and it's
+the same way on the new
+
+bf119685-16c3-49c4-9abb-1778af6888ac-9
+00:39:12.209 --> 00:39:12.700
+platform.
+
+2d458b16-070d-46ab-8277-56e3648542e4-0
+00:39:14.070 --> 00:39:17.328
+But yeah, yeah, yeah, yeah,
+yeah, yeah. But hold on. You
+
+2d458b16-070d-46ab-8277-56e3648542e4-1
+00:39:17.328 --> 00:39:20.587
+know there's I'm asked for the
+telephone number and it's
+
+2d458b16-070d-46ab-8277-56e3648542e4-2
+00:39:20.587 --> 00:39:23.960
+mandatory you know and it's it's
+it's not filled out so it
+
+2d458b16-070d-46ab-8277-56e3648542e4-3
+00:39:23.960 --> 00:39:27.677
+automatically recognizes me as a
+customer. My name is filled out
+
+2d458b16-070d-46ab-8277-56e3648542e4-4
+00:39:27.677 --> 00:39:31.279
+and my e-mail is right. Yeah.
+And I I just hate it. I don't do
+
+2d458b16-070d-46ab-8277-56e3648542e4-5
+00:39:31.279 --> 00:39:34.652
+it. I won't give you a single
+extra term you know I'm I've
+
+2d458b16-070d-46ab-8277-56e3648542e4-6
+00:39:34.652 --> 00:39:38.140
+been a customer for 10 years or
+so and if I ask clicked the.
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-0
+00:39:39.940 --> 00:39:43.361
+The FDA analyst Pop, I want to
+ask my question. I don't wanna
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-1
+00:39:43.361 --> 00:39:46.561
+wanna uh do anything in addition
+to identifying myself on
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-2
+00:39:46.561 --> 00:39:49.927
+identified as a customer since
+I'm locked into the platform.
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-3
+00:39:49.927 --> 00:39:52.962
+And I'm asking to ask the
+analysts button that already
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-4
+00:39:52.962 --> 00:39:56.548
+should identify these. No, that
+makes absolute sense. So I don't
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-5
+00:39:56.548 --> 00:40:00.025
+think we're there yet. That is
+something that will feedback to
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-6
+00:40:00.025 --> 00:40:03.556
+the team though, because it'll
+make the feedback loop a lot and
+
+ba1b0344-fe09-43d2-8163-24ea9837a46d-7
+00:40:03.556 --> 00:40:06.149
+the whole feedback process a lot
+more smarter.
+
+90a58541-9ef4-4932-8cd1-c704ffb9446c-0
+00:40:07.620 --> 00:40:08.630
+And and better.
+
+0baa02a5-5d77-4115-aec7-83798c7eba61-0
+00:40:09.320 --> 00:40:13.490
+And honestly, you know, I mean
+it's just really, it's like like
+
+0baa02a5-5d77-4115-aec7-83798c7eba61-1
+00:40:13.490 --> 00:40:17.660
+I say, I just don't use it then.
+But I take my frustration with
+
+0baa02a5-5d77-4115-aec7-83798c7eba61-2
+00:40:17.660 --> 00:40:21.308
+me. It's it's not that I don't
+use it and say, well, no
+
+0baa02a5-5d77-4115-aec7-83798c7eba61-3
+00:40:21.308 --> 00:40:21.830
+problem.
+
+859ff381-5ade-4db4-b16d-e0d43c46cdf8-0
+00:40:22.480 --> 00:40:26.131
+But no, I'm annoyed because I
+said I I had a problem. I would
+
+859ff381-5ade-4db4-b16d-e0d43c46cdf8-1
+00:40:26.131 --> 00:40:29.723
+have liked to raised it, raised
+it, but I was not willing to
+
+859ff381-5ade-4db4-b16d-e0d43c46cdf8-2
+00:40:29.723 --> 00:40:33.433
+spend extra time to fill out a
+form and and now I have not not
+
+859ff381-5ade-4db4-b16d-e0d43c46cdf8-3
+00:40:33.433 --> 00:40:36.848
+not found a solution for my for
+my problem. And then I go
+
+859ff381-5ade-4db4-b16d-e0d43c46cdf8-4
+00:40:36.848 --> 00:40:39.440
+elsewhere and that's that's my
+more recent.
+
+5f35dac6-06b2-488d-8c5d-fbceb808c48e-0
+00:40:40.720 --> 00:40:45.041
+Experienced us start to go into
+other solutions more often than
+
+5f35dac6-06b2-488d-8c5d-fbceb808c48e-1
+00:40:45.041 --> 00:40:46.190
+in in into yours.
+
+39d40846-74a4-4e60-a62e-dbd38defe835-0
+00:40:47.690 --> 00:40:50.982
+OK, that's what I find. That's
+yeah, that's something that I'll
+
+39d40846-74a4-4e60-a62e-dbd38defe835-1
+00:40:50.982 --> 00:40:54.326
+definitely feedback to the team
+because that's something that we
+
+39d40846-74a4-4e60-a62e-dbd38defe835-2
+00:40:54.326 --> 00:40:57.516
+should really improve on. Um.
+But I appreciate you mentioning
+
+39d40846-74a4-4e60-a62e-dbd38defe835-3
+00:40:57.516 --> 00:41:00.757
+all of that actually, because
+they it's, it's really vital for
+
+39d40846-74a4-4e60-a62e-dbd38defe835-4
+00:41:00.757 --> 00:41:04.101
+us. I told you I'd be honest and
+I guess, no, no, I feel I am. I
+
+39d40846-74a4-4e60-a62e-dbd38defe835-5
+00:41:04.101 --> 00:41:07.033
+love it. I love it. This is the
+feedback that I need. So
+
+39d40846-74a4-4e60-a62e-dbd38defe835-6
+00:41:07.033 --> 00:41:10.017
+unfortunately, I know after
+you've said all of that, when
+
+39d40846-74a4-4e60-a62e-dbd38defe835-7
+00:41:10.017 --> 00:41:13.155
+you are playing around on the
+new platform, when you do fill
+
+39d40846-74a4-4e60-a62e-dbd38defe835-8
+00:41:13.155 --> 00:41:16.396
+out that survey and there will
+be some preliminary information
+
+39d40846-74a4-4e60-a62e-dbd38defe835-9
+00:41:16.396 --> 00:41:17.579
+that you might have to.
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-0
+00:41:18.360 --> 00:41:22.741
+Yeah, we can look with that with
+the better you know. Yeah, with
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-1
+00:41:22.741 --> 00:41:26.919
+the. Yeah, exactly. Agree to
+help you with the development of
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-2
+00:41:26.919 --> 00:41:31.166
+product. That's OK no problem.
+Yeah. I'm thinking more in long
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-3
+00:41:31.166 --> 00:41:35.345
+term what the existing. Yeah, of
+course. Yeah. No, that makes
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-4
+00:41:35.345 --> 00:41:39.726
+sense. Cool. So, yeah, be a very
+general feedback. So everything
+
+6c88ff39-f919-4c04-874f-ec9a02c5d86a-5
+00:41:39.726 --> 00:41:42.220
+that you showed me today looks
+good.
+
+96b479a3-187a-4f47-93af-55e195734140-0
+00:41:43.160 --> 00:41:48.570
+Yeah, I could really imagine
+that that that it's becoming a
+
+96b479a3-187a-4f47-93af-55e195734140-1
+00:41:48.570 --> 00:41:53.890
+great platform if with the
+amendments that you surely will
+
+96b479a3-187a-4f47-93af-55e195734140-2
+00:41:53.890 --> 00:41:59.120
+do so and and and but I wonder
+or I worry more about the.
+
+bcd91aa8-0820-4a48-b24d-0a0030fa6a03-0
+00:42:00.240 --> 00:42:03.993
+The data segmentation, more you
+know, the more the technical
+
+bcd91aa8-0820-4a48-b24d-0a0030fa6a03-1
+00:42:03.993 --> 00:42:07.870
+part of it, not, not so much the
+graphical and. Yeah, and and.
+
+ce0a6ddc-244a-4724-aea7-e66540a9d700-0
+00:42:09.890 --> 00:42:14.076
+Platform part but so, so for
+example with your your
+
+ce0a6ddc-244a-4724-aea7-e66540a9d700-1
+00:42:14.076 --> 00:42:18.826
+multitudes of mechanism of
+actions with your funny way how
+
+ce0a6ddc-244a-4724-aea7-e66540a9d700-2
+00:42:18.826 --> 00:42:23.576
+to define uh indications or
+diseases some way sometimes so
+
+ce0a6ddc-244a-4724-aea7-e66540a9d700-3
+00:42:23.576 --> 00:42:28.648
+so um and interestingly I think
+I'm I think I'm I can say that
+
+ce0a6ddc-244a-4724-aea7-e66540a9d700-4
+00:42:28.648 --> 00:42:33.559
+because for example if if I look
+up PARP inhibitor which is.
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-0
+00:42:35.130 --> 00:42:38.928
+That's a drug that targets a
+specific cancer mutation. It
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-1
+00:42:38.928 --> 00:42:42.858
+works in every other database
+that I use that I type in POP
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-2
+00:42:42.858 --> 00:42:47.050
+inhibitor and I get all the pop
+inhibitors that I would like to
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-3
+00:42:47.050 --> 00:42:51.111
+see and just invalid. It's so
+complicated that it's part one,
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-4
+00:42:51.111 --> 00:42:55.303
+Part 2, part whatever. You know,
+you slice it dice sometimes so
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-5
+00:42:55.303 --> 00:42:59.626
+granular that that one gets lost
+or that it's not easily possible
+
+ea40002c-579d-4a57-9bc0-b174f54fedd4-6
+00:42:59.626 --> 00:43:00.740
+to find any term.
+
+97251dca-96f2-488e-9129-f554836544b4-0
+00:43:01.810 --> 00:43:05.309
+Any umbrella term that
+encompasses all the drugs that
+
+97251dca-96f2-488e-9129-f554836544b4-1
+00:43:05.309 --> 00:43:09.197
+I'm actually looking for, but
+nothing else which is precise
+
+97251dca-96f2-488e-9129-f554836544b4-2
+00:43:09.197 --> 00:43:13.215
+enough, and that's different in
+other databases. I don't have
+
+97251dca-96f2-488e-9129-f554836544b4-3
+00:43:13.215 --> 00:43:14.900
+that problem that I'm I'm.
+
+3f6f223a-bca0-4762-a700-1f6960e82a4b-0
+00:43:15.530 --> 00:43:18.324
+It can really be a problem
+because if if I look for for
+
+3f6f223a-bca0-4762-a700-1f6960e82a4b-1
+00:43:18.324 --> 00:43:20.470
+drugs with a specific mechanism
+of action.
+
+f5c5536b-4cc4-4c63-a752-f85ccfce515d-0
+00:43:22.550 --> 00:43:26.402
+And I want to see how much
+revenue do they generate in in
+
+f5c5536b-4cc4-4c63-a752-f85ccfce515d-1
+00:43:26.402 --> 00:43:30.519
+uh in aggregate, you know how,
+how large is that mechanism of
+
+f5c5536b-4cc4-4c63-a752-f85ccfce515d-2
+00:43:30.519 --> 00:43:32.180
+action space so to speak.
+
+e7ec9d74-02e4-4d4a-bc50-199526e7001d-0
+00:43:32.900 --> 00:43:37.142
+And I always have a hard time,
+uh in envelope to be sure that I
+
+e7ec9d74-02e4-4d4a-bc50-199526e7001d-1
+00:43:37.142 --> 00:43:41.053
+I really see what I want to see
+because sometimes for some
+
+e7ec9d74-02e4-4d4a-bc50-199526e7001d-2
+00:43:41.053 --> 00:43:44.632
+reason because of the
+segmentation and and and and in
+
+e7ec9d74-02e4-4d4a-bc50-199526e7001d-3
+00:43:44.632 --> 00:43:48.874
+the back end uh, some some drugs
+are not uh, uh considered they
+
+e7ec9d74-02e4-4d4a-bc50-199526e7001d-4
+00:43:48.874 --> 00:43:49.140
+are.
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-0
+00:43:50.430 --> 00:43:54.501
+Yeah, different bucket. Which is
+why that's becoming increasingly
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-1
+00:43:54.501 --> 00:43:58.265
+a problem. And I'm increasingly
+insecure when I pull data or
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-2
+00:43:58.265 --> 00:44:02.152
+when I look at the screen after
+I did the search, to really be
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-3
+00:44:02.152 --> 00:44:05.977
+confident that I know what I'm
+looking at and to be confident
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-4
+00:44:05.977 --> 00:44:09.309
+that it's the complete
+information and the way that I
+
+c0a80dd2-e210-4ed6-b170-37c7d4e66551-5
+00:44:09.309 --> 00:44:11.160
+would have expected to get it.
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-0
+00:44:12.680 --> 00:44:16.162
+OK. And that that that's the
+problem. Because if if I lose
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-1
+00:44:16.162 --> 00:44:19.822
+trust that that I that I know
+what I what what I'm looking at
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-2
+00:44:19.822 --> 00:44:23.482
+you know that it's complete, or
+at least if it's not complete
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-3
+00:44:23.482 --> 00:44:26.906
+that I know in which way is it
+not completed and all. But
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-4
+00:44:26.906 --> 00:44:30.271
+sometimes really it's like I
+don't know exactly what I'm
+
+2aee2014-905b-443d-aadf-50d9c4b67fc2-5
+00:44:30.271 --> 00:44:32.160
+looking at and that's a problem.
+
+fc43275a-05ae-46fe-ab73-fd14bc0c22de-0
+00:44:33.370 --> 00:44:36.465
+OK. No, that's that's a really
+good um feedback. I'll, I'll
+
+fc43275a-05ae-46fe-ab73-fd14bc0c22de-1
+00:44:36.465 --> 00:44:39.612
+pass that over to the team as
+well and thank you for raising
+
+fc43275a-05ae-46fe-ab73-fd14bc0c22de-2
+00:44:39.612 --> 00:44:39.870
+that.
+
+f87d65ed-2f05-417f-8ee2-1ac768fae3f0-0
+00:44:41.260 --> 00:44:44.315
+Um, So what I would suggest is,
+uh yeah, if you do have a
+
+f87d65ed-2f05-417f-8ee2-1ac768fae3f0-1
+00:44:44.315 --> 00:44:47.633
+playground, you sorry. A lot of
+things to do will raise to the
+
+f87d65ed-2f05-417f-8ee2-1ac768fae3f0-2
+00:44:47.633 --> 00:44:49.529
+team. Poor team. They will hate
+me.
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-0
+00:44:50.830 --> 00:44:53.962
+No, no, no, absolutely not.
+Absolutely not. This is this is
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-1
+00:44:53.962 --> 00:44:56.885
+the sort of feedback that they
+want. They we don't want
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-2
+00:44:56.885 --> 00:44:59.756
+customers just to tell us how
+brilliant it is. We want
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-3
+00:44:59.756 --> 00:45:02.784
+customers to tell us how to
+improve it, right. We want to
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-4
+00:45:02.784 --> 00:45:05.864
+make life as easy as possible
+for you guys. So, um, really
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-5
+00:45:05.864 --> 00:45:08.996
+good feedback why would suggest
+is from you clicking around
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-6
+00:45:08.996 --> 00:45:12.337
+yourself and you know as opposed
+to you seeing it on my screen,
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-7
+00:45:12.337 --> 00:45:15.156
+you might find a few more
+things. Yeah, sure. So play
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-8
+00:45:15.156 --> 00:45:18.393
+around with it. Please do submit
+feedback. I know what you've
+
+38ab20b5-3add-4085-9b91-78bd9585ae63-9
+00:45:18.393 --> 00:45:21.160
+mentioned about the ability to
+write so many things.
+
+de16b124-76b6-4334-81eb-3becc79a7f29-0
+00:45:21.240 --> 00:45:24.661
+Uh, but we would appreciate it
+if you have picked up anything
+
+de16b124-76b6-4334-81eb-3becc79a7f29-1
+00:45:24.661 --> 00:45:27.916
+else. If you use the feedback
+icon um and submit anything,
+
+de16b124-76b6-4334-81eb-3becc79a7f29-2
+00:45:27.916 --> 00:45:30.510
+then it'll it'll come directly
+into our inbox.
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-0
+00:45:31.180 --> 00:45:35.611
+OK, I'll, I'll try. You know I
+mean she said it's not not fully
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-1
+00:45:35.611 --> 00:45:40.043
+populated so I'm not sure if I
+will get you the, the the amount
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-2
+00:45:40.043 --> 00:45:43.990
+of data or the granularity
+already. So, so that I see if
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-3
+00:45:43.990 --> 00:45:48.353
+I'm missing anything or not, I
+can check it out. But anyways I
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-4
+00:45:48.353 --> 00:45:52.369
+think I gave you quite a bit of
+feedback already. So yeah
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-5
+00:45:52.369 --> 00:45:56.801
+absolutely because there will be
+some people will be spending a
+
+5d073077-49ae-4eaf-b2ad-9215283e8f4d-6
+00:45:56.801 --> 00:45:57.840
+couple of days.
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-0
+00:45:59.080 --> 00:46:02.141
+Thinking through the suggestions
+and maybe incorporating them.
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-1
+00:46:02.141 --> 00:46:05.153
+So, yeah, absolutely. So, yeah,
+I mean, even if you don't get
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-2
+00:46:05.153 --> 00:46:08.117
+time today, it could be any
+other day. So you'll have access
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-3
+00:46:08.117 --> 00:46:11.129
+to the platform over the next
+few weeks. And what we'll do is
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-4
+00:46:11.129 --> 00:46:14.287
+we're obviously doing this with
+a few more customers. Once we've
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-5
+00:46:14.287 --> 00:46:17.008
+then looked at all of the
+feedback and we've summarized
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-6
+00:46:17.008 --> 00:46:20.167
+it, what I'll do then do sort of
+in a few weeks time, I'll reach
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-7
+00:46:20.167 --> 00:46:23.130
+back out just to give you a
+summary of all the feedback that
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-8
+00:46:23.130 --> 00:46:26.143
+we've received and our response
+to that feedback. Just so you
+
+4fc75e00-1beb-4f79-8b23-c1d4fad28c8a-9
+00:46:26.143 --> 00:46:29.010
+know, we could close the loop
+and you're aware of sort of.
+
+4ef1f7ae-b3e8-4248-9d77-feb1eb4d082f-0
+00:46:29.080 --> 00:46:30.879
+Our next steps and how we're
+going to sort of start
+
+4ef1f7ae-b3e8-4248-9d77-feb1eb4d082f-1
+00:46:30.879 --> 00:46:31.710
+addressing these things.
+
+42f221c5-0a01-466e-a69c-97f00a1f7f24-0
+00:46:32.390 --> 00:46:36.393
+Um, but yeah, for now, I'll.
+I'll follow up with an e-mail
+
+42f221c5-0a01-466e-a69c-97f00a1f7f24-1
+00:46:36.393 --> 00:46:37.140
+just to um.
+
+0f986df5-ba90-4424-b37c-4daddde353e4-0
+00:46:37.800 --> 00:46:41.314
+Just to give you a link to the
+feedback survey and the platform
+
+0f986df5-ba90-4424-b37c-4daddde353e4-1
+00:46:41.314 --> 00:46:44.774
+itself. Um, and then yeah, it's
+it's completely up to yourself
+
+0f986df5-ba90-4424-b37c-4daddde353e4-2
+00:46:44.774 --> 00:46:48.124
+if you want to do some more
+testing. Um, if not, I thank you
+
+0f986df5-ba90-4424-b37c-4daddde353e4-3
+00:46:48.124 --> 00:46:51.309
+again for your time for you to
+spend an hour with me on a
+
+0f986df5-ba90-4424-b37c-4daddde353e4-4
+00:46:51.309 --> 00:46:54.440
+Friday is uh, I'm very grateful
+for. So appreciate that.
+
+96539a62-52e3-4875-9dd1-4b9f6c26e15f-0
+00:46:55.390 --> 00:46:56.920
+What was wrong with you
+actually?
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-0
+00:46:58.370 --> 00:47:01.051
+Again, well, um, yeah, we'll
+we'll leave it there. I
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-1
+00:47:01.051 --> 00:47:04.086
+appreciate you saying that, you
+know, reach out if there is
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-2
+00:47:04.086 --> 00:47:07.374
+anything else. So I'll, I'll put
+that on your record as well. If
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-3
+00:47:07.374 --> 00:47:10.460
+there is anything, I'll reach
+out. If not, just feel free to
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-4
+00:47:10.460 --> 00:47:13.597
+drop me an e-mail as well. If
+you want to discuss anything in
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-5
+00:47:13.597 --> 00:47:16.480
+more detail, I'm happy to pull
+the right people into the
+
+fcf0ec8c-7f87-450c-895c-75a23fce15f5-6
+00:47:16.480 --> 00:47:17.290
+meeting as well.
+
+1bb24ba0-11fe-4909-9e24-92030d8b4f9b-0
+00:47:19.300 --> 00:47:22.392
+Guides that sound alright?
+Sounds good. Yeah, well,
+
+1bb24ba0-11fe-4909-9e24-92030d8b4f9b-1
+00:47:22.392 --> 00:47:25.842
+brilliant. Like I said, I
+haven't given up on invalid and
+
+1bb24ba0-11fe-4909-9e24-92030d8b4f9b-2
+00:47:25.842 --> 00:47:29.649
+I hope that will establish that
+I will like the platform like I
+
+1bb24ba0-11fe-4909-9e24-92030d8b4f9b-3
+00:47:29.649 --> 00:47:31.850
+did before, you know, and that
+will.
+
+98872c44-decc-42c2-bef8-79ea39458392-0
+00:47:32.730 --> 00:47:35.923
+At some point be again might go
+to platform where I blindly step
+
+98872c44-decc-42c2-bef8-79ea39458392-1
+00:47:35.923 --> 00:47:38.920
+into and I know I can rely on
+the data and be happy with it.
+
+2de68bd5-f60c-472d-9752-c5cfbc2b8c98-0
+00:47:39.700 --> 00:47:42.455
+Please. Let's hope, let's hope
+we could get you back to that
+
+2de68bd5-f60c-472d-9752-c5cfbc2b8c98-1
+00:47:42.455 --> 00:47:45.074
+point. No. Cool. OK, great.
+Alright. Thank you very much.
+
+2de68bd5-f60c-472d-9752-c5cfbc2b8c98-2
+00:47:45.074 --> 00:47:47.919
+Tim. You enjoy the rest of your
+day. Have a wonderful weekend.
+
+2de68bd5-f60c-472d-9752-c5cfbc2b8c98-3
+00:47:47.919 --> 00:47:49.320
+Bye. Bye. Cheers. You too. Bye.
